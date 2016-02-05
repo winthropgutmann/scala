@@ -1,0 +1,11 @@
+import scala.io._
+import java.io._
+import java.nio._
+
+object tst {
+  def main(args: Array[String]): Unit = {
+  
+      println("hello, " + args(0))
+
+  }
+} 

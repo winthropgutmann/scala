@@ -1,0 +1,22 @@
+import scala.io._
+import java.io._
+import java.nio._
+
+object tst {
+  def main(args: Array[String]): Unit = {
+    
+    val sourceFile = "LocalSettings2.rb"
+    val writer = new PrintWriter(new File("LocalSettings.rb"))
+    
+    for (line <- Source.fromFile(sourceFile).getLines()){
+      if(line.contains("provisioning_client")){         
+        var myVar = line.split(":")
+        if(myVar(1).contains("\"")){
+          writer.write("provisioning_client: \"mpi\",")
+        }
+      }
+      
+      writer.write(line)
+    }
+  }
+} 

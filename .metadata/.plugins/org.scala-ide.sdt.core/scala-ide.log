@@ -1,0 +1,374 @@
+2016-02-03 11:26:08,918 ERROR [main] - Statistics - Statistics file `C:\Users\Winthrop\.scalaide\statistics` is corrupted. A new one is being created. Corrupted content was:
+
+com.cedarsoftware.util.io.JsonIoException: error parsing JSON value
+	at com.cedarsoftware.util.io.JsonReader.readObject(JsonReader.java:529)
+	at com.cedarsoftware.util.io.JsonReader.jsonToJava(JsonReader.java:289)
+	at com.cedarsoftware.util.io.JsonReader.jsonToJava(JsonReader.java:262)
+	at org.scalaide.core.internal.statistics.Statistics.org$scalaide$core$internal$statistics$Statistics$$read(Statistics.scala:74)
+	at org.scalaide.core.internal.statistics.Statistics$$anonfun$readStats$1.apply(Statistics.scala:52)
+	at org.scalaide.core.internal.statistics.Statistics$$anonfun$readStats$1.apply(Statistics.scala:51)
+	at org.scalaide.core.ScalaIdeDataStore$$anonfun$validate$2.apply(ScalaIdeDataStore.scala:59)
+	at org.scalaide.util.eclipse.EclipseUtils$$anon$3.run(EclipseUtils.scala:216)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.scalaide.util.eclipse.EclipseUtils$.withSafeRunner(EclipseUtils.scala:212)
+	at org.scalaide.core.ScalaIdeDataStore$.validate(ScalaIdeDataStore.scala:58)
+	at org.scalaide.core.internal.statistics.Statistics.readStats(Statistics.scala:51)
+	at org.scalaide.core.internal.statistics.Statistics.<init>(Statistics.scala:30)
+	at org.scalaide.core.internal.ScalaPlugin.stats$lzycompute(ScalaPlugin.scala:136)
+	at org.scalaide.core.internal.ScalaPlugin.stats(ScalaPlugin.scala:136)
+	at org.scalaide.core.internal.ScalaPlugin.statistics(ScalaPlugin.scala:139)
+	at org.scalaide.core.internal.ScalaPlugin.start(ScalaPlugin.scala:110)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:771)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:1)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:764)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:721)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:936)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:319)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:571)
+	at org.eclipse.osgi.container.Module.start(Module.java:439)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:454)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:107)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:531)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:324)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:320)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:337)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:568)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:174)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:905)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at org.eclipse.ui.internal.registry.PerspectiveDescriptor.createFactory(PerspectiveDescriptor.java:74)
+	at org.eclipse.ui.internal.WorkbenchPage.setPerspective(WorkbenchPage.java:4032)
+	at org.eclipse.ui.internal.WorkbenchWindow.setup(WorkbenchWindow.java:733)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:888)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.inject(InjectorImpl.java:120)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.inject(InjectorImpl.java:85)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.inject(ContextInjectionFactory.java:73)
+	at org.eclipse.ui.internal.Workbench.createWorkbenchWindow(Workbench.java:1480)
+	at org.eclipse.ui.internal.Workbench.getActiveWorkbenchWindow(Workbench.java:1453)
+	at org.eclipse.ui.internal.services.WorkbenchSourceProvider.updateActiveShell(WorkbenchSourceProvider.java:943)
+	at org.eclipse.ui.internal.services.WorkbenchSourceProvider.getCurrentState(WorkbenchSourceProvider.java:137)
+	at org.eclipse.ui.internal.services.WorkbenchSourceProvider$6.handleEvent(WorkbenchSourceProvider.java:703)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.filterEvent(Display.java:1262)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1060)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1085)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1070)
+	at org.eclipse.swt.widgets.Decorations.WM_ACTIVATE(Decorations.java:1666)
+	at org.eclipse.swt.widgets.Shell.WM_ACTIVATE(Shell.java:2151)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4607)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:339)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1626)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2075)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5023)
+	at org.eclipse.swt.internal.win32.OS.BringWindowToTop(Native Method)
+	at org.eclipse.swt.widgets.Decorations.bringToTop(Decorations.java:230)
+	at org.eclipse.swt.widgets.Shell.open(Shell.java:1217)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.postProcess(WBWRenderer.java:744)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:678)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:766)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$2(PartRenderingEngine.java:737)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$7.run(PartRenderingEngine.java:731)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:715)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1074)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+Caused by: com.cedarsoftware.util.io.JsonIoException: EOF reached prematurely
+	at com.cedarsoftware.util.io.JsonParser.error(JsonParser.java:584)
+	at com.cedarsoftware.util.io.JsonParser.readValue(JsonParser.java:278)
+	at com.cedarsoftware.util.io.JsonReader.readObject(JsonReader.java:521)
+	... 100 more
+2016-02-03 11:27:14,939  WARN [ModalContext] - ScalaProject - Project tst has platform default sourceLevel.
+2016-02-03 11:27:14,941  WARN [ModalContext] - ScalaProject - Project tst runs on platform default installation.
+2016-02-03 11:27:15,247  WARN [Worker-7] - ScalaProject - Project tst has platform default sourceLevel.
+2016-02-03 11:27:15,248  WARN [Worker-7] - ScalaProject - Project tst runs on platform default installation.
+2016-02-03 11:27:52,514  WARN [main] - ScalaProject - Project tst has platform default sourceLevel.
+2016-02-03 11:27:52,514  WARN [main] - ScalaProject - Project tst runs on platform default installation.
+2016-02-03 11:27:53,394 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-03 11:27:53,401 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-03 11:27:53,403 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-03 11:27:53,405 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-03 11:27:53,407 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-03 11:27:53,414 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-03 11:27:53,417 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-03 11:27:54,292 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-03 11:27:54,468 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-03 11:27:55,451 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-03 11:27:56,099 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-03 11:27:56,220 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-03 11:27:56,275 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-03 11:27:56,412 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-03 11:27:57,403  WARN [main] - ScalaProject - Project tst has platform default sourceLevel.
+2016-02-03 11:27:57,403  WARN [main] - ScalaProject - Project tst runs on platform default installation.
+2016-02-03 11:27:57,889  WARN [Worker-2] - ScalaProject - Project tst has platform default sourceLevel.
+2016-02-03 11:27:57,889  WARN [Worker-2] - ScalaProject - Project tst runs on platform default installation.
+2016-02-03 11:27:58,592 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-03 11:27:58,595 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-03 11:27:58,750 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-03 11:27:58,751 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-03 11:28:18,076  WARN [Worker-2] - ScalaProject - Project tst has platform default sourceLevel.
+2016-02-03 11:28:18,076  WARN [Worker-2] - ScalaProject - Project tst runs on platform default installation.
+2016-02-03 11:37:30,565  WARN [ModalContext] - ScalaProject - Project scalaprojects has platform default sourceLevel.
+2016-02-03 11:37:30,565  WARN [ModalContext] - ScalaProject - Project scalaprojects runs on platform default installation.
+2016-02-03 11:37:30,925  WARN [Worker-11] - ScalaProject - Project scalaprojects has platform default sourceLevel.
+2016-02-03 11:37:30,925  WARN [Worker-11] - ScalaProject - Project scalaprojects runs on platform default installation.
+2016-02-03 11:37:41,144  WARN [main] - ScalaProject - Project scalaprojects has platform default sourceLevel.
+2016-02-03 11:37:41,144  WARN [main] - ScalaProject - Project scalaprojects runs on platform default installation.
+2016-02-03 11:38:06,650  WARN [ModalContext] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 11:38:06,650  WARN [ModalContext] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 11:38:25,173  WARN [Worker-11] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 11:38:25,173  WARN [Worker-11] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 11:38:32,308  WARN [main] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 11:38:32,309  WARN [main] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 11:38:33,005  WARN [main] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 11:38:33,006  WARN [main] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 11:38:33,166  WARN [Worker-11] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 11:38:33,166  WARN [Worker-11] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 11:38:45,150  WARN [Worker-11] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 11:38:45,151  WARN [Worker-11] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 11:41:59,982 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-03 11:41:59,986 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-03 11:41:59,986 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-03 11:41:59,987 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-03 11:41:59,987 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-03 11:41:59,987 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-03 11:41:59,989 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-03 11:42:11,743  WARN [Worker-14] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 11:42:11,744  WARN [Worker-14] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 11:46:08,689  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 131
+2016-02-03 11:46:59,203  WARN [Worker-20] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 11:46:59,204  WARN [Worker-20] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 11:47:43,563 ERROR [Worker-19] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2016-02-03 11:47:43,563 ERROR [Worker-19] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2016-02-03 11:47:43,563 ERROR [Worker-19] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2016-02-03 11:49:05,675  WARN [Worker-23] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 11:49:05,675  WARN [Worker-23] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 11:50:56,480  WARN [Worker-24] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 11:50:56,480  WARN [Worker-24] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 11:53:22,985  WARN [Worker-27] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 11:53:22,985  WARN [Worker-27] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 11:53:41,769  WARN [Worker-21] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 11:53:41,769  WARN [Worker-21] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 11:54:31,637  WARN [main] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-02-03 11:54:35,665  WARN [Worker-26] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 11:54:35,665  WARN [Worker-26] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 11:58:15,197  WARN [Worker-29] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 11:58:15,198  WARN [Worker-29] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 11:58:56,431  WARN [Worker-26] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 11:58:56,431  WARN [Worker-26] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 12:01:53,322  WARN [Worker-28] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 12:01:53,322  WARN [Worker-28] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 12:06:25,679  WARN [Worker-29] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 12:06:25,679  WARN [Worker-29] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 12:06:45,570  WARN [Worker-33] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 12:06:45,570  WARN [Worker-33] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 12:07:39,820  WARN [Worker-33] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 12:07:39,821  WARN [Worker-33] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 12:08:41,330  WARN [Worker-29] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 12:08:41,330  WARN [Worker-29] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 12:10:26,964  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-02-03 12:10:27,165  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-02-03 12:10:35,070  WARN [Worker-37] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 12:10:35,070  WARN [Worker-37] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 12:11:28,801  WARN [Worker-29] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 12:11:28,802  WARN [Worker-29] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 12:12:49,456  WARN [Worker-35] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 12:12:49,456  WARN [Worker-35] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 12:13:43,545  WARN [Worker-29] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 12:13:43,545  WARN [Worker-29] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 12:14:50,796  WARN [Worker-29] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 12:14:50,796  WARN [Worker-29] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 12:15:19,238  WARN [Worker-40] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 12:15:19,238  WARN [Worker-40] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 12:15:41,537  WARN [Worker-36] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 12:15:41,537  WARN [Worker-36] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 12:15:48,274  WARN [Worker-38] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 12:15:48,275  WARN [Worker-38] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 12:15:55,725  WARN [Worker-35] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 12:15:55,725  WARN [Worker-35] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 12:18:25,673  WARN [Worker-36] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 12:18:25,673  WARN [Worker-36] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 12:18:34,342  WARN [Worker-36] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 12:18:34,342  WARN [Worker-36] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 12:18:42,056  WARN [Worker-41] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 12:18:42,056  WARN [Worker-41] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 12:31:56,172  WARN [Worker-47] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 12:31:56,172  WARN [Worker-47] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 12:32:13,365  WARN [Worker-36] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 12:32:13,365  WARN [Worker-36] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 12:32:16,293  WARN [Worker-36] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 12:32:16,293  WARN [Worker-36] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 12:33:33,002  WARN [Worker-48] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 12:33:33,002  WARN [Worker-48] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 14:03:43,027  WARN [Worker-59] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 14:03:43,027  WARN [Worker-59] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 15:13:42,879  WARN [Worker-67] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 15:13:42,879  WARN [Worker-67] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 15:13:56,262  WARN [ModalContext] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 15:13:56,263  WARN [ModalContext] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-03 15:13:56,574  WARN [Worker-71] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 15:13:56,574  WARN [Worker-71] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-03 15:14:09,368  WARN [main] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 15:14:09,369  WARN [main] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-03 15:14:12,255  WARN [main] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 15:14:12,255  WARN [main] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-03 15:14:12,556  WARN [Worker-71] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 15:14:12,556  WARN [Worker-71] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-03 15:14:18,598  WARN [Worker-67] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 15:14:18,598  WARN [Worker-67] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-03 15:15:00,069  WARN [Worker-65] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 15:15:00,069  WARN [Worker-65] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 15:17:21,974 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - scala.tools.nsc.interactive.MissingResponse: response missing
+2016-02-03 15:30:14,182  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 214
+2016-02-03 15:30:14,183  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 214
+2016-02-03 15:31:47,173  WARN [Worker-72] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 15:31:47,173  WARN [Worker-72] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-03 15:33:29,490  WARN [Worker-80] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 15:33:29,490  WARN [Worker-80] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-03 15:35:03,812  WARN [Worker-80] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 15:35:03,812  WARN [Worker-80] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-03 15:35:48,700  WARN [Worker-80] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 15:35:48,700  WARN [Worker-80] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-03 15:50:51,977  WARN [Worker-84] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 15:50:51,977  WARN [Worker-84] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-03 15:53:02,396  WARN [Worker-86] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 15:53:02,396  WARN [Worker-86] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-03 15:53:26,739  WARN [Worker-83] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 15:53:26,739  WARN [Worker-83] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-03 15:53:51,192  WARN [Worker-83] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 15:53:51,192  WARN [Worker-83] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-03 15:54:19,909  WARN [Worker-86] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 15:54:19,910  WARN [Worker-86] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-03 16:40:34,975  WARN [Worker-94] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 16:40:34,975  WARN [Worker-94] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-03 17:17:40,205  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 206
+2016-02-03 17:17:48,760  WARN [Worker-97] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 17:17:48,760  WARN [Worker-97] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-03 17:27:44,647  WARN [Worker-107] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 17:27:44,647  WARN [Worker-107] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-03 17:31:11,142 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-03 17:31:11,148 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-03 17:31:11,148 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-03 17:31:11,149 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-03 17:32:33,947  WARN [Worker-113] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 17:32:33,947  WARN [Worker-113] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-03 17:58:05,444  WARN [Worker-110] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 17:58:05,445  WARN [Worker-110] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-03 18:13:01,658  WARN [Worker-128] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 18:13:01,659  WARN [Worker-128] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-03 18:14:31,829  WARN [Worker-128] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 18:14:31,830  WARN [Worker-128] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-03 18:33:59,360  WARN [Worker-136] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 18:33:59,361  WARN [Worker-136] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-03 18:37:04,633  WARN [Worker-136] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 18:37:04,633  WARN [Worker-136] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-03 18:52:13,982  WARN [Worker-143] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 18:52:13,982  WARN [Worker-143] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 18:54:37,378  WARN [Worker-144] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 18:54:37,378  WARN [Worker-144] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 18:59:39,090  WARN [Worker-146] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 18:59:39,090  WARN [Worker-146] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-03 19:01:09,897  WARN [Worker-152] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 19:01:09,897  WARN [Worker-152] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-03 19:05:56,597 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(Unknown Source)
+	at scala.tools.refactoring.common.PimpedTrees$TreeMethodsForPositions.nameString(PimpedTrees.scala:344)
+	at scala.tools.refactoring.common.PimpedTrees$TreeMethodsForPositions.namePosition(PimpedTrees.scala:252)
+	at org.scalaide.core.internal.decorators.semantichighlighting.classifier.SafeSymbol$$anonfun$6.apply(SafeSymbol.scala:138)
+	at org.scalaide.core.internal.decorators.semantichighlighting.classifier.SafeSymbol$$anonfun$6.apply(SafeSymbol.scala:138)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:455)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:429)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2016-02-03 19:07:22,247  WARN [Worker-152] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 19:07:22,248  WARN [Worker-152] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-03 19:23:42,753  WARN [Worker-160] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 19:23:42,753  WARN [Worker-160] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-03 19:34:56,477  WARN [Worker-162] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 19:34:56,477  WARN [Worker-162] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-03 19:35:37,010  WARN [Worker-165] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 19:35:37,010  WARN [Worker-165] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-03 19:38:36,868  WARN [Worker-165] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 19:38:36,868  WARN [Worker-165] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-03 19:40:51,563  WARN [Worker-170] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 19:40:51,563  WARN [Worker-170] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-03 19:53:27,501  WARN [Worker-171] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 19:53:27,501  WARN [Worker-171] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 19:54:04,557  WARN [Worker-173] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-03 19:54:04,557  WARN [Worker-173] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-03 20:04:39,154  WARN [Worker-175] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 20:04:39,154  WARN [Worker-175] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-03 20:06:15,924  WARN [Worker-171] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-03 20:06:15,924  WARN [Worker-171] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-04 09:57:52,870  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 2887
+2016-02-04 09:57:52,871  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 2893
+2016-02-04 09:57:55,945  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 2893
+2016-02-04 09:57:55,946  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 2899
+2016-02-04 10:31:13,018  WARN [main] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-04 10:31:13,018  WARN [main] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-04 10:31:13,234  WARN [Worker-183] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-04 10:31:13,234  WARN [Worker-183] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-04 11:17:29,969 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+scala.reflect.internal.FatalError: ThisType(method main) for sym which is not a class
+	at scala.reflect.internal.Reporting$class.abort(Reporting.scala:59)
+	at scala.reflect.internal.SymbolTable.abort(SymbolTable.scala:16)
+	at scala.reflect.internal.Types$ThisType.<init>(Types.scala:1167)
+	at scala.reflect.internal.Types$UniqueThisType.<init>(Types.scala:1187)
+	at scala.reflect.internal.Types$ThisType$.apply(Types.scala:1191)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$findMirrorSymbol(Global.scala:873)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16$$anonfun$apply$18.apply(Global.scala:946)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16$$anonfun$apply$18.apply(Global.scala:945)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:778)
+	at scala.collection.immutable.List.foreach(List.scala:381)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:777)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:945)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:944)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$withTempUnits(Global.scala:853)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:944)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:944)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:699)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:699)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:706)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:699)
+	at scala.tools.nsc.interactive.Global.getDocComment(Global.scala:943)
+	at scala.tools.nsc.interactive.CompilerControl$AskDocCommentItem.apply$mcV$sp(CompilerControl.scala:376)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:504)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:429)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2016-02-04 15:21:27,800  WARN [Worker-233] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-04 15:21:27,801  WARN [Worker-233] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-04 15:26:09,175  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 298
+2016-02-04 15:29:30,222  WARN [Worker-239] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-04 15:29:30,222  WARN [Worker-239] - ScalaProject - Project LocalSettings runs on platform default installation.

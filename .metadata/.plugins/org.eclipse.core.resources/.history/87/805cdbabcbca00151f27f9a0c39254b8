@@ -1,0 +1,64 @@
+import scala.io._
+import java.io._
+import java.nio._
+
+
+object tst {
+  def main(args: Array[String]): Unit = {
+
+    //variable declarations
+    val custom = args(1).replace(".", "").replace("-", "")
+    val dbname = if(custom =="") args(0).replace(".", "").replace("-", "") else custom
+    val name = args(2)
+    val mpi = args(3)
+    val sourceFile = "C:\\Users\\" + name + "\\dev\\qdw-deployment\\Build\\LocalSettings2.rb"
+    val writer = new PrintWriter(new File("C:\\Users\\" + name + "\\dev\\qdw-deployment\\Build\\LocalSettings.rb"))
+    val skip = 0
+    
+    //functions
+    def checkForProvisioningClient(line : String){
+      
+      if(line.contains("provisioning_client")){         
+        var myVar = line.split(":")
+        if(myVar(1).contains("\"")){
+          var writethis = "  provisioning_client: \"" + dbname + "\"," + "\n" 
+          writeLine(writethis)
+        }
+      }else{
+          writeLine(line)
+      }
+    }
+    
+    def writeLine(line: String){
+      writer.write(line + "\n")
+    }
+    
+    def checkForMPI(line:String){
+      if(line.contains(":mpi")){
+        
+      }
+    }
+    
+    def checkForComment(line:String) :Int={
+      if(line.charAt(0) == "#"){
+        writeLine(line)
+        return 1
+      }else{
+        return 0
+      }
+    }
+    
+    
+    //main
+
+    for (line <- Source.fromFile(sourceFile).getLines()){
+      skip = checkForComment(line)
+      
+      checkForProvisioningClient(line)
+      if(mpi=="y"){
+        checkForMPI(line)
+      }
+    }
+    writer.close()
+  }
+} 

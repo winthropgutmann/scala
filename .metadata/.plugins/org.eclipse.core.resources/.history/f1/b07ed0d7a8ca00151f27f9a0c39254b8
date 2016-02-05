@@ -1,0 +1,16 @@
+import scala.io.Source
+
+object tst {
+    def main(args: Array[String]): Unit = {
+      val filename = "LocalSettings.rb"
+      for (line <- Source.fromFile(filename).getLines()){
+        if(line.contains("provisioning_client")){         
+          var myVar = line.split(":")
+          if(myVar(1).contains("\"")){
+            myVar(1).split("\"").foreach(println)
+          }
+//          println(":" + myVar(1))
+        }
+      }
+  }
+}

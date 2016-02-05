@@ -1,0 +1,29 @@
+import scala.io._
+import java.io._
+import java.nio._
+
+
+object tst {
+  def main(args: Array[String]): Unit = {
+    
+    val dbname = args(0)
+    val custom = args(1).replace(".", "").replace("-", "")
+    val name = args(2)
+    
+    val sourceFile = "C:\\Users\\" + name + "\\dev\\qdw-deployment\\Build\\LocalSettings2.rb"
+    val writer = new PrintWriter(new File("C:\\Users\\" + name + "\\dev\\qdw-deployment\\Build\\LocalSettings.rb"))
+    
+    for (line <- Source.fromFile(sourceFile).getLines()){
+      if(line.contains("provisioning_client")){         
+        var myVar = line.split(":")
+        if(myVar(1).contains("\"")){
+          var writethis = if(custom=="") "  provisioning_client: \"" + dbname + "\"," + "\n" else "  provisioning_client: \"" + dbname + "\"," + "\n" 
+          writer.write(writethis)
+        }
+      }else{
+        writer.write(line + "\n")  
+      }
+    }
+    writer.close()
+  }
+} 
