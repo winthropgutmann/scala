@@ -1,0 +1,10 @@
+import scala.io._
+import java.io._
+import java.nio._
+import scala.util.matching.Regex
+
+object tst {
+  def main(name:String): Unit = {
+      println(name)
+  }
+} 

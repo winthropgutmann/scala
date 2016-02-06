@@ -372,3 +372,409 @@ scala.reflect.internal.FatalError: ThisType(method main) for sym which is not a 
 2016-02-04 15:26:09,175  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 298
 2016-02-04 15:29:30,222  WARN [Worker-239] - ScalaProject - Project LocalSettings has platform default sourceLevel.
 2016-02-04 15:29:30,222  WARN [Worker-239] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-05 11:50:26,939  WARN [Worker-1] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-05 11:50:26,941  WARN [Worker-1] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-05 11:50:28,029  WARN [Worker-1] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-05 11:50:28,029  WARN [Worker-1] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-05 11:50:28,115  WARN [Worker-1] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-05 11:50:28,116  WARN [Worker-1] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-05 11:50:29,690  WARN [main] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-05 11:50:29,691  WARN [main] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-05 11:50:29,926  WARN [Worker-5] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 11:50:29,926  WARN [Worker-5] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 11:50:29,961  WARN [Worker-5] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 11:50:29,962  WARN [Worker-5] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 11:50:29,989  WARN [Worker-5] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 11:50:29,989  WARN [Worker-5] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 11:51:22,213  WARN [Worker-0] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-05 11:51:22,215  WARN [Worker-0] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-05 11:51:23,028  WARN [Worker-0] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-05 11:51:23,028  WARN [Worker-0] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-05 11:51:23,103  WARN [Worker-0] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-05 11:51:23,104  WARN [Worker-0] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-05 11:51:25,318  WARN [Worker-0] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 11:51:25,318  WARN [Worker-0] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 11:51:25,358  WARN [Worker-0] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 11:51:25,358  WARN [Worker-0] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 11:51:25,373  WARN [Worker-0] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 11:51:25,374  WARN [Worker-0] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 11:51:25,822  WARN [main] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-05 11:51:25,823  WARN [main] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-05 11:51:50,353  WARN [Worker-0] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-05 11:51:50,354  WARN [Worker-0] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-05 11:51:51,078  WARN [Worker-0] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-05 11:51:51,080  WARN [Worker-0] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-05 11:51:51,168  WARN [Worker-0] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-05 11:51:51,169  WARN [Worker-0] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-05 11:51:52,842  WARN [Worker-1] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 11:51:52,842  WARN [Worker-1] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 11:51:52,868  WARN [Worker-1] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 11:51:52,868  WARN [Worker-1] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 11:51:52,878  WARN [Worker-1] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 11:51:52,878  WARN [Worker-1] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 11:51:53,438  WARN [main] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-05 11:51:53,438  WARN [main] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-05 11:55:50,413  WARN [Worker-1] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-05 11:55:50,414  WARN [Worker-1] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-05 11:58:32,710  WARN [ModalContext] - ScalaProject - Project testProjects has platform default sourceLevel.
+2016-02-05 11:58:32,711  WARN [ModalContext] - ScalaProject - Project testProjects runs on platform default installation.
+2016-02-05 11:58:33,056  WARN [Worker-7] - ScalaProject - Project testProjects has platform default sourceLevel.
+2016-02-05 11:58:33,057  WARN [Worker-7] - ScalaProject - Project testProjects runs on platform default installation.
+2016-02-05 11:58:45,883  WARN [main] - ScalaProject - Project testProjects has platform default sourceLevel.
+2016-02-05 11:58:45,883  WARN [main] - ScalaProject - Project testProjects runs on platform default installation.
+2016-02-05 11:58:46,819  WARN [main] - ScalaProject - Project testProjects has platform default sourceLevel.
+2016-02-05 11:58:46,819  WARN [main] - ScalaProject - Project testProjects runs on platform default installation.
+2016-02-05 11:58:46,973  WARN [Worker-5] - ScalaProject - Project testProjects has platform default sourceLevel.
+2016-02-05 11:58:46,973  WARN [Worker-5] - ScalaProject - Project testProjects runs on platform default installation.
+2016-02-05 11:59:14,334  WARN [Worker-5] - ScalaProject - Project testProjects has platform default sourceLevel.
+2016-02-05 11:59:14,335  WARN [Worker-5] - ScalaProject - Project testProjects runs on platform default installation.
+2016-02-05 12:00:14,533  WARN [Worker-5] - ScalaProject - Project testProjects has platform default sourceLevel.
+2016-02-05 12:00:14,533  WARN [Worker-5] - ScalaProject - Project testProjects runs on platform default installation.
+2016-02-05 12:01:00,827  WARN [Worker-4] - ScalaProject - Project testProjects has platform default sourceLevel.
+2016-02-05 12:01:00,827  WARN [Worker-4] - ScalaProject - Project testProjects runs on platform default installation.
+2016-02-05 12:02:00,936  WARN [Worker-7] - ScalaProject - Project testProjects has platform default sourceLevel.
+2016-02-05 12:02:00,937  WARN [Worker-7] - ScalaProject - Project testProjects runs on platform default installation.
+2016-02-05 12:05:15,437  WARN [main] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 12:05:15,438  WARN [main] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 12:09:14,886  WARN [Worker-1] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 12:09:14,887  WARN [Worker-1] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 12:09:43,189  WARN [Worker-10] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 12:09:43,190  WARN [Worker-10] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 12:10:21,510  WARN [Worker-10] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 12:10:21,510  WARN [Worker-10] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 12:11:25,487  WARN [Worker-7] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 12:11:25,488  WARN [Worker-7] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 12:11:42,615  WARN [Worker-8] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 12:11:42,615  WARN [Worker-8] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 12:12:58,764 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-05 12:12:58,764 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-05 12:12:58,765 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-05 12:13:49,534  WARN [Worker-13] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 12:13:49,534  WARN [Worker-13] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 12:14:37,263  WARN [Worker-12] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 12:14:37,264  WARN [Worker-12] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 18:21:46,156  WARN [Worker-49] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 18:21:46,157  WARN [Worker-49] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 18:23:11,220  WARN [Worker-50] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 18:23:11,220  WARN [Worker-50] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 18:24:04,880  WARN [Worker-49] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 18:24:04,880  WARN [Worker-49] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 18:24:51,674  WARN [Worker-49] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 18:24:51,675  WARN [Worker-49] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 18:25:31,584  WARN [Worker-49] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 18:25:31,584  WARN [Worker-49] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 18:26:03,104  WARN [Worker-49] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 18:26:03,104  WARN [Worker-49] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 18:56:04,466  WARN [Worker-54] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 18:56:04,466  WARN [Worker-54] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 19:06:36,382  WARN [Worker-50] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 19:06:36,382  WARN [Worker-50] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 19:30:54,120  WARN [Worker-55] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 19:30:54,121  WARN [Worker-55] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 19:31:04,580  WARN [Worker-54] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 19:31:04,580  WARN [Worker-54] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 19:33:32,582  WARN [Worker-56] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 19:33:32,582  WARN [Worker-56] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 19:34:30,479  WARN [Worker-58] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 19:34:30,479  WARN [Worker-58] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 19:39:19,106 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-05 19:39:19,108 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-05 19:39:19,108 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-05 19:45:24,823  WARN [Worker-60] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 19:45:24,823  WARN [Worker-60] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 19:46:08,321  WARN [Worker-57] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 19:46:08,321  WARN [Worker-57] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 19:46:42,259  WARN [Worker-54] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 19:46:42,259  WARN [Worker-54] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 19:46:56,065  WARN [Worker-54] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 19:46:56,065  WARN [Worker-54] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 19:48:53,575  WARN [Worker-59] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 19:48:53,575  WARN [Worker-59] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 19:54:59,202  WARN [Worker-60] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 19:54:59,203  WARN [Worker-60] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 19:55:33,634  WARN [Worker-62] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 19:55:33,635  WARN [Worker-62] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 19:55:42,458  WARN [Worker-60] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 19:55:42,459  WARN [Worker-60] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 19:56:00,096  WARN [Worker-60] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 19:56:00,096  WARN [Worker-60] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 19:56:12,455  WARN [Worker-58] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 19:56:12,455  WARN [Worker-58] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 19:58:39,490  WARN [Worker-57] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 19:58:39,491  WARN [Worker-57] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:00:03,062  WARN [Worker-60] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:00:03,062  WARN [Worker-60] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:00:09,705  WARN [Worker-60] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:00:09,705  WARN [Worker-60] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:01:33,522  WARN [Worker-54] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:01:33,522  WARN [Worker-54] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:02:51,904  WARN [Worker-54] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:02:51,904  WARN [Worker-54] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:04:56,775  WARN [Worker-58] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:04:56,775  WARN [Worker-58] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:06:19,277  WARN [Worker-54] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:06:19,277  WARN [Worker-54] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:07:02,205  WARN [Worker-59] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:07:02,205  WARN [Worker-59] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:07:44,290  WARN [Worker-62] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:07:44,290  WARN [Worker-62] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:08:12,398  WARN [Worker-54] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:08:12,398  WARN [Worker-54] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:08:25,816  WARN [Worker-59] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:08:25,817  WARN [Worker-59] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:08:58,148  WARN [Worker-61] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:08:58,148  WARN [Worker-61] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:09:47,391  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 643
+2016-02-05 20:09:48,401  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 647
+2016-02-05 20:11:22,823 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:379)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:130)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:105)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:95)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:147)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:961)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:810)
+	at scala.tools.nsc.interactive.Global$$anonfun$getTypedTreeAt$1.apply(Global.scala:840)
+	at scala.tools.nsc.interactive.Global$$anonfun$getTypedTreeAt$1.apply(Global.scala:840)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:699)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:699)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:706)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:699)
+	at scala.tools.nsc.interactive.Global.getTypedTreeAt(Global.scala:840)
+	at scala.tools.nsc.interactive.CompilerControl$AskTypeAtItem.apply$mcV$sp(CompilerControl.scala:326)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:504)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:429)
+	at scala.tools.nsc.interactive.Global.checkForMoreWork(Global.scala:518)
+	at scala.tools.nsc.interactive.Global.signalParseProgress(Global.scala:329)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.funDefRest(Parsers.scala:2619)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.funDefOrDcl(Parsers.scala:2576)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.defOrDcl(Parsers.scala:2461)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.nonLocalDefOrDcl(Parsers.scala:2473)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1$$anonfun$applyOrElse$3.apply(Parsers.scala:3030)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1$$anonfun$applyOrElse$3.apply(Parsers.scala:3030)
+	at scala.tools.nsc.doc.ScaladocSyntaxAnalyzer$ScaladocUnitParser.joinComment(ScaladocAnalyzer.scala:259)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1.applyOrElse(Parsers.scala:3030)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1.applyOrElse(Parsers.scala:3025)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.statSeq(Parsers.scala:2957)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateStats(Parsers.scala:3024)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStatSeq$1.apply(Parsers.scala:3011)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStatSeq$1.apply(Parsers.scala:2988)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:462)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateStatSeq(Parsers.scala:2988)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateBody(Parsers.scala:2917)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateBodyOpt(Parsers.scala:2924)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateOpt(Parsers.scala:2888)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.objectDef(Parsers.scala:2773)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.tmplDef(Parsers.scala:2712)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topLevelTmplDef(Parsers.scala:2693)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1$$anonfun$applyOrElse$2.apply(Parsers.scala:2980)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1$$anonfun$applyOrElse$2.apply(Parsers.scala:2980)
+	at scala.tools.nsc.doc.ScaladocSyntaxAnalyzer$ScaladocUnitParser.joinComment(ScaladocAnalyzer.scala:259)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1.applyOrElse(Parsers.scala:2980)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1.applyOrElse(Parsers.scala:2973)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.statSeq(Parsers.scala:2957)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topStatSeq(Parsers.scala:2972)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.topstats$1(Parsers.scala:3170)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.apply(Parsers.scala:3176)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.apply(Parsers.scala:3138)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:462)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.compilationUnit(Parsers.scala:3138)
+	at scala.tools.nsc.ast.parser.Parsers$SourceFileParser$$anonfun$parseStartRule$1.apply(Parsers.scala:146)
+	at scala.tools.nsc.ast.parser.Parsers$SourceFileParser$$anonfun$parseStartRule$1.apply(Parsers.scala:146)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$parse$1.apply(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$parse$1.apply(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.parseRule(Parsers.scala:345)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.parse(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$UnitParser.smartParse(Parsers.scala:241)
+	at scala.tools.nsc.ast.parser.SyntaxAnalyzer.scala$tools$nsc$ast$parser$SyntaxAnalyzer$$initialUnitBody(SyntaxAnalyzer.scala:87)
+	at scala.tools.nsc.ast.parser.SyntaxAnalyzer$ParserPhase.apply(SyntaxAnalyzer.scala:99)
+	at scala.tools.nsc.Global$GlobalPhase$$anonfun$applyPhase$1.apply$mcV$sp(Global.scala:440)
+	at scala.tools.nsc.Global$GlobalPhase.withCurrentUnit(Global.scala:431)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:440)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2$$anonfun$apply$1.apply(Global.scala:1609)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2$$anonfun$apply$1.apply(Global.scala:1609)
+	at scala.reflect.internal.SymbolTable.enteringPhase(SymbolTable.scala:235)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2.apply(Global.scala:1609)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2.apply(Global.scala:1608)
+	at scala.collection.Iterator$class.foreach(Iterator.scala:742)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1194)
+	at scala.tools.nsc.Global$Run.compileLate(Global.scala:1608)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$parseAndEnter(Global.scala:656)
+	at scala.tools.nsc.interactive.Global.backgroundCompile(Global.scala:562)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:25)
+2016-02-05 20:11:34,110 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:379)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:130)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:105)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:95)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:147)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:961)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:810)
+	at scala.tools.nsc.interactive.Global$$anonfun$getTypedTreeAt$1.apply(Global.scala:840)
+	at scala.tools.nsc.interactive.Global$$anonfun$getTypedTreeAt$1.apply(Global.scala:840)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:699)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:699)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:706)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:699)
+	at scala.tools.nsc.interactive.Global.getTypedTreeAt(Global.scala:840)
+	at scala.tools.nsc.interactive.CompilerControl$AskTypeAtItem.apply$mcV$sp(CompilerControl.scala:326)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:504)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:429)
+	at scala.tools.nsc.interactive.Global.checkForMoreWork(Global.scala:518)
+	at scala.tools.nsc.interactive.Global.signalParseProgress(Global.scala:329)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.funDefRest(Parsers.scala:2619)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.funDefOrDcl(Parsers.scala:2576)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.defOrDcl(Parsers.scala:2461)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.nonLocalDefOrDcl(Parsers.scala:2473)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1$$anonfun$applyOrElse$3.apply(Parsers.scala:3030)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1$$anonfun$applyOrElse$3.apply(Parsers.scala:3030)
+	at scala.tools.nsc.doc.ScaladocSyntaxAnalyzer$ScaladocUnitParser.joinComment(ScaladocAnalyzer.scala:259)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1.applyOrElse(Parsers.scala:3030)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1.applyOrElse(Parsers.scala:3025)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.statSeq(Parsers.scala:2957)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateStats(Parsers.scala:3024)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStatSeq$1.apply(Parsers.scala:3011)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStatSeq$1.apply(Parsers.scala:2988)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:462)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateStatSeq(Parsers.scala:2988)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateBody(Parsers.scala:2917)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateBodyOpt(Parsers.scala:2924)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateOpt(Parsers.scala:2888)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.objectDef(Parsers.scala:2773)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.tmplDef(Parsers.scala:2712)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topLevelTmplDef(Parsers.scala:2693)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1$$anonfun$applyOrElse$2.apply(Parsers.scala:2980)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1$$anonfun$applyOrElse$2.apply(Parsers.scala:2980)
+	at scala.tools.nsc.doc.ScaladocSyntaxAnalyzer$ScaladocUnitParser.joinComment(ScaladocAnalyzer.scala:259)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1.applyOrElse(Parsers.scala:2980)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1.applyOrElse(Parsers.scala:2973)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.statSeq(Parsers.scala:2957)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topStatSeq(Parsers.scala:2972)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.topstats$1(Parsers.scala:3170)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.apply(Parsers.scala:3176)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.apply(Parsers.scala:3138)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:462)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.compilationUnit(Parsers.scala:3138)
+	at scala.tools.nsc.ast.parser.Parsers$SourceFileParser$$anonfun$parseStartRule$1.apply(Parsers.scala:146)
+	at scala.tools.nsc.ast.parser.Parsers$SourceFileParser$$anonfun$parseStartRule$1.apply(Parsers.scala:146)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$parse$1.apply(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$parse$1.apply(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.parseRule(Parsers.scala:345)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.parse(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$UnitParser.smartParse(Parsers.scala:241)
+	at scala.tools.nsc.ast.parser.SyntaxAnalyzer.scala$tools$nsc$ast$parser$SyntaxAnalyzer$$initialUnitBody(SyntaxAnalyzer.scala:87)
+	at scala.tools.nsc.ast.parser.SyntaxAnalyzer$ParserPhase.apply(SyntaxAnalyzer.scala:99)
+	at scala.tools.nsc.Global$GlobalPhase$$anonfun$applyPhase$1.apply$mcV$sp(Global.scala:440)
+	at scala.tools.nsc.Global$GlobalPhase.withCurrentUnit(Global.scala:431)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:440)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2$$anonfun$apply$1.apply(Global.scala:1609)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2$$anonfun$apply$1.apply(Global.scala:1609)
+	at scala.reflect.internal.SymbolTable.enteringPhase(SymbolTable.scala:235)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2.apply(Global.scala:1609)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2.apply(Global.scala:1608)
+	at scala.collection.Iterator$class.foreach(Iterator.scala:742)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1194)
+	at scala.tools.nsc.Global$Run.compileLate(Global.scala:1608)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$parseAndEnter(Global.scala:656)
+	at scala.tools.nsc.interactive.Global.backgroundCompile(Global.scala:562)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:25)
+2016-02-05 20:13:42,442 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:379)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:130)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:105)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:95)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:147)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:961)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:810)
+	at scala.tools.nsc.interactive.Global$$anonfun$getTypedTreeAt$1.apply(Global.scala:840)
+	at scala.tools.nsc.interactive.Global$$anonfun$getTypedTreeAt$1.apply(Global.scala:840)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:699)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:699)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:706)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:699)
+	at scala.tools.nsc.interactive.Global.getTypedTreeAt(Global.scala:840)
+	at scala.tools.nsc.interactive.CompilerControl$AskTypeAtItem.apply$mcV$sp(CompilerControl.scala:326)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:504)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:429)
+	at scala.tools.nsc.interactive.Global.checkForMoreWork(Global.scala:518)
+	at scala.tools.nsc.interactive.Global.signalParseProgress(Global.scala:329)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.funDefRest(Parsers.scala:2619)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.funDefOrDcl(Parsers.scala:2576)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.defOrDcl(Parsers.scala:2461)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.nonLocalDefOrDcl(Parsers.scala:2473)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1$$anonfun$applyOrElse$3.apply(Parsers.scala:3030)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1$$anonfun$applyOrElse$3.apply(Parsers.scala:3030)
+	at scala.tools.nsc.doc.ScaladocSyntaxAnalyzer$ScaladocUnitParser.joinComment(ScaladocAnalyzer.scala:259)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1.applyOrElse(Parsers.scala:3030)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1.applyOrElse(Parsers.scala:3025)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.statSeq(Parsers.scala:2957)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateStats(Parsers.scala:3024)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStatSeq$1.apply(Parsers.scala:3011)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStatSeq$1.apply(Parsers.scala:2988)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:462)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateStatSeq(Parsers.scala:2988)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateBody(Parsers.scala:2917)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateBodyOpt(Parsers.scala:2924)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateOpt(Parsers.scala:2888)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.objectDef(Parsers.scala:2773)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.tmplDef(Parsers.scala:2712)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topLevelTmplDef(Parsers.scala:2693)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1$$anonfun$applyOrElse$2.apply(Parsers.scala:2980)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1$$anonfun$applyOrElse$2.apply(Parsers.scala:2980)
+	at scala.tools.nsc.doc.ScaladocSyntaxAnalyzer$ScaladocUnitParser.joinComment(ScaladocAnalyzer.scala:259)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1.applyOrElse(Parsers.scala:2980)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1.applyOrElse(Parsers.scala:2973)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.statSeq(Parsers.scala:2957)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topStatSeq(Parsers.scala:2972)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.topstats$1(Parsers.scala:3170)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.apply(Parsers.scala:3176)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.apply(Parsers.scala:3138)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:462)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.compilationUnit(Parsers.scala:3138)
+	at scala.tools.nsc.ast.parser.Parsers$SourceFileParser$$anonfun$parseStartRule$1.apply(Parsers.scala:146)
+	at scala.tools.nsc.ast.parser.Parsers$SourceFileParser$$anonfun$parseStartRule$1.apply(Parsers.scala:146)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$parse$1.apply(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$parse$1.apply(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.parseRule(Parsers.scala:345)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.parse(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$UnitParser.smartParse(Parsers.scala:241)
+	at scala.tools.nsc.ast.parser.SyntaxAnalyzer.scala$tools$nsc$ast$parser$SyntaxAnalyzer$$initialUnitBody(SyntaxAnalyzer.scala:87)
+	at scala.tools.nsc.ast.parser.SyntaxAnalyzer$ParserPhase.apply(SyntaxAnalyzer.scala:99)
+	at scala.tools.nsc.Global$GlobalPhase$$anonfun$applyPhase$1.apply$mcV$sp(Global.scala:440)
+	at scala.tools.nsc.Global$GlobalPhase.withCurrentUnit(Global.scala:431)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:440)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2$$anonfun$apply$1.apply(Global.scala:1609)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2$$anonfun$apply$1.apply(Global.scala:1609)
+	at scala.reflect.internal.SymbolTable.enteringPhase(SymbolTable.scala:235)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2.apply(Global.scala:1609)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2.apply(Global.scala:1608)
+	at scala.collection.Iterator$class.foreach(Iterator.scala:742)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1194)
+	at scala.tools.nsc.Global$Run.compileLate(Global.scala:1608)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$parseAndEnter(Global.scala:656)
+	at scala.tools.nsc.interactive.Global.backgroundCompile(Global.scala:562)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:25)
+2016-02-05 20:17:47,654  WARN [Worker-54] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:17:47,655  WARN [Worker-54] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:18:33,576  WARN [Worker-59] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:18:33,576  WARN [Worker-59] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:18:59,414  WARN [Worker-62] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:18:59,414  WARN [Worker-62] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:19:22,972  WARN [Worker-54] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:19:22,973  WARN [Worker-54] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:19:27,774  WARN [Worker-59] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:19:27,774  WARN [Worker-59] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:21:44,652  WARN [Worker-62] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:21:44,652  WARN [Worker-62] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:22:44,320  WARN [Worker-62] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:22:44,320  WARN [Worker-62] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:22:49,487  WARN [Worker-62] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:22:49,487  WARN [Worker-62] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:24:05,662  WARN [Worker-58] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:24:05,662  WARN [Worker-58] - ScalaProject - Project helloworld runs on platform default installation.

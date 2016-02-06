@@ -1,0 +1,29 @@
+import scala.io._
+import java.io._
+import java.nio._
+import scala.util.matching.Regex
+
+object tst {
+  def main(args: Array[String]): Unit = {
+    var myClass = new Setting("v4.9-rc", "...", "Winthrop")
+    println(myClass.getVersion())
+
+  }
+  
+  class Setting(var Branch: String, Custom:String, Username:String){
+    this.setVersion(Branch)
+    println("inclass")
+
+    protected var version = ""
+
+    def setVersion(branch:String){
+      println("in setVersion")
+      val pattern = new Regex("[0-9]");
+      this.version = (pattern findAllIn branch).mkString
+    }
+  
+    def getVersion():String={ return this.version}
+  
+  }
+} 
+

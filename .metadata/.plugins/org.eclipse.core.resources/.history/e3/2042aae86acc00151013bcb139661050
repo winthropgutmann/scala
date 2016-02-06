@@ -1,0 +1,30 @@
+import scala.io._
+import java.io._
+import java.nio._
+import scala.util.matching.Regex
+
+object tst {
+  def main(args: Array[String]): Unit = {
+    //variables
+      var custom = args(1)
+      var user = args(2)
+      var dbname = if(args(1).replace(".", "").replace("-", "") =="") args(0).replace(".", "").replace("-", "") else args(1).replace(".", "").replace("-", "")
+      val sourceFile = "C:\\Users\\"+user+"\\dev\\qdw-deployment\\Build\\LocalSettings.rb"
+      dbname = getVersion(sourceFile, dbname)
+    
+      println(dbname)
+      
+  }
+  
+  def getVersion(file:String, dbname:String):String={
+    for (line <- Source.fromFile(file).getLines()){
+      if(dbname == "master"){
+        val version = line.split(":")
+        return version(1)  
+      }else{
+        return dbname
+      }
+    }
+    return ""
+  }
+} 
