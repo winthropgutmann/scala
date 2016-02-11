@@ -1,0 +1,24 @@
+import scala.io._
+import java.io._
+import java.nio._
+import scala.util.matching.Regex
+
+object ulc {
+  def main(branch:String, custom:String, username:String): Unit = {
+    
+    def getTable(filePath:String):String={
+      val splitPath = filePath.split("\\\\")
+      for(i <- 0 until splitPath.length){
+        if(splitPath(i).contains(".sql")){
+          return splitPath(i).toString.replace(".sql", "").replace("\'", "")
+        }
+      }
+      return "Table not found"
+    }
+    
+    var file = "C:\\Users\\Winthrop\\dev\\qdw\\Database\\Warehouse\\Schema Objects\\Schemas\\dbo\\Tables\\t_problem.table.sql".toString
+    var myReturn = getTable(file).toString
+    println(myReturn)
+  }
+
+}//end of object

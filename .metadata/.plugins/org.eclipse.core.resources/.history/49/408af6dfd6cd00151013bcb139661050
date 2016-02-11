@@ -1,0 +1,13 @@
+import scala.io._
+
+object damn {
+  def main(args: Array[String]): Unit = {
+    
+    val sourceFile = "C:\\Users\\Winthrop\\dev\\qdw-deployment\\Build\\LocalSettings.rb"
+      
+    val bufferSource = Source.fromFile(sourceFile)
+    for (line <- bufferSource.getLines) {
+      println(line)
+    }
+  }
+}

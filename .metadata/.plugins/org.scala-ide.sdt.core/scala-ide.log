@@ -778,3 +778,1140 @@ java.lang.NullPointerException
 2016-02-05 20:22:49,487  WARN [Worker-62] - ScalaProject - Project helloworld runs on platform default installation.
 2016-02-05 20:24:05,662  WARN [Worker-58] - ScalaProject - Project helloworld has platform default sourceLevel.
 2016-02-05 20:24:05,662  WARN [Worker-58] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:27:51,377  WARN [Worker-60] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:27:51,377  WARN [Worker-60] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:28:02,365  WARN [Worker-60] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:28:02,366  WARN [Worker-60] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:28:57,304  WARN [Worker-58] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:28:57,305  WARN [Worker-58] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:29:22,891 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-05 20:29:24,402  WARN [Worker-54] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:29:24,402  WARN [Worker-54] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:31:09,037  WARN [Worker-54] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:31:09,037  WARN [Worker-54] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:31:36,344  WARN [Worker-54] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:31:36,344  WARN [Worker-54] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:32:13,645  WARN [Worker-54] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:32:13,645  WARN [Worker-54] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:32:43,018  WARN [Worker-60] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:32:43,019  WARN [Worker-60] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:33:06,857  WARN [Worker-64] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:33:06,857  WARN [Worker-64] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:35:08,732  WARN [Worker-62] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:35:08,732  WARN [Worker-62] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:37:36,016  WARN [Worker-58] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:37:36,016  WARN [Worker-58] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:38:04,340  WARN [Worker-63] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:38:04,341  WARN [Worker-63] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:38:44,687  WARN [Worker-58] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:38:44,688  WARN [Worker-58] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:39:10,430  WARN [Worker-54] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:39:10,430  WARN [Worker-54] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:39:51,837  WARN [Worker-54] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:39:51,837  WARN [Worker-54] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:40:59,325  WARN [Worker-60] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:40:59,325  WARN [Worker-60] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:41:29,226  WARN [Worker-62] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:41:29,226  WARN [Worker-62] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:42:10,845  WARN [Worker-60] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:42:10,845  WARN [Worker-60] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:42:24,885  WARN [Worker-54] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:42:24,885  WARN [Worker-54] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:44:12,926  WARN [Worker-60] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:44:12,926  WARN [Worker-60] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:44:44,122  WARN [Worker-58] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:44:44,123  WARN [Worker-58] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:45:30,622  WARN [Worker-64] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:45:30,622  WARN [Worker-64] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:46:19,820  WARN [Worker-62] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:46:19,820  WARN [Worker-62] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-05 20:46:44,353  WARN [Worker-54] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-05 20:46:44,354  WARN [Worker-54] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-07 14:53:51,903  WARN [Worker-153] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-07 14:53:51,903  WARN [Worker-153] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-07 15:01:49,794  WARN [Worker-163] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-07 15:01:49,794  WARN [Worker-163] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-07 15:02:50,605  WARN [Worker-158] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-07 15:02:50,605  WARN [Worker-158] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-07 15:04:22,204  WARN [Worker-162] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-07 15:04:22,204  WARN [Worker-162] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-07 15:04:48,801  WARN [Worker-165] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-07 15:04:48,801  WARN [Worker-165] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-07 15:05:12,020  WARN [Worker-153] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-07 15:05:12,021  WARN [Worker-153] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-07 15:06:04,659  WARN [Worker-158] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-07 15:06:04,659  WARN [Worker-158] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-07 15:07:33,528  WARN [Worker-158] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-07 15:07:33,528  WARN [Worker-158] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-07 15:07:52,865  WARN [ModalContext] - ScalaProject - Project fuck has platform default sourceLevel.
+2016-02-07 15:07:52,865  WARN [ModalContext] - ScalaProject - Project fuck runs on platform default installation.
+2016-02-07 15:07:53,198  WARN [Worker-156] - ScalaProject - Project fuck has platform default sourceLevel.
+2016-02-07 15:07:53,199  WARN [Worker-156] - ScalaProject - Project fuck runs on platform default installation.
+2016-02-07 15:08:07,448  WARN [main] - ScalaProject - Project fuck has platform default sourceLevel.
+2016-02-07 15:08:07,448  WARN [main] - ScalaProject - Project fuck runs on platform default installation.
+2016-02-07 15:08:08,191  WARN [main] - ScalaProject - Project fuck has platform default sourceLevel.
+2016-02-07 15:08:08,191  WARN [main] - ScalaProject - Project fuck runs on platform default installation.
+2016-02-07 15:08:08,371  WARN [Worker-163] - ScalaProject - Project fuck has platform default sourceLevel.
+2016-02-07 15:08:08,371  WARN [Worker-163] - ScalaProject - Project fuck runs on platform default installation.
+2016-02-07 15:09:51,810  WARN [Worker-156] - ScalaProject - Project fuck has platform default sourceLevel.
+2016-02-07 15:09:51,810  WARN [Worker-156] - ScalaProject - Project fuck runs on platform default installation.
+2016-02-07 15:10:47,507  WARN [Worker-166] - ScalaProject - Project fuck has platform default sourceLevel.
+2016-02-07 15:10:47,507  WARN [Worker-166] - ScalaProject - Project fuck runs on platform default installation.
+2016-02-07 15:11:12,837  WARN [Worker-165] - ScalaProject - Project fuck has platform default sourceLevel.
+2016-02-07 15:11:12,837  WARN [Worker-165] - ScalaProject - Project fuck runs on platform default installation.
+2016-02-07 15:11:31,613  WARN [Worker-166] - ScalaProject - Project fuck has platform default sourceLevel.
+2016-02-07 15:11:31,614  WARN [Worker-166] - ScalaProject - Project fuck runs on platform default installation.
+2016-02-07 15:11:43,374  WARN [Worker-156] - ScalaProject - Project fuck has platform default sourceLevel.
+2016-02-07 15:11:43,374  WARN [Worker-156] - ScalaProject - Project fuck runs on platform default installation.
+2016-02-07 15:13:51,416  WARN [Worker-166] - ScalaProject - Project fuck has platform default sourceLevel.
+2016-02-07 15:13:51,416  WARN [Worker-166] - ScalaProject - Project fuck runs on platform default installation.
+2016-02-07 15:14:29,610  WARN [Worker-153] - ScalaProject - Project fuck has platform default sourceLevel.
+2016-02-07 15:14:29,611  WARN [Worker-153] - ScalaProject - Project fuck runs on platform default installation.
+2016-02-07 15:15:40,871  WARN [Worker-163] - ScalaProject - Project fuck has platform default sourceLevel.
+2016-02-07 15:15:40,871  WARN [Worker-163] - ScalaProject - Project fuck runs on platform default installation.
+2016-02-07 15:15:49,960  WARN [Worker-153] - ScalaProject - Project fuck has platform default sourceLevel.
+2016-02-07 15:15:49,961  WARN [Worker-153] - ScalaProject - Project fuck runs on platform default installation.
+2016-02-07 15:17:25,882  WARN [Worker-153] - ScalaProject - Project fuck has platform default sourceLevel.
+2016-02-07 15:17:25,882  WARN [Worker-153] - ScalaProject - Project fuck runs on platform default installation.
+2016-02-07 15:18:03,000  WARN [Worker-165] - ScalaProject - Project fuck has platform default sourceLevel.
+2016-02-07 15:18:03,001  WARN [Worker-165] - ScalaProject - Project fuck runs on platform default installation.
+2016-02-07 15:18:30,422  WARN [Worker-163] - ScalaProject - Project fuck has platform default sourceLevel.
+2016-02-07 15:18:30,422  WARN [Worker-163] - ScalaProject - Project fuck runs on platform default installation.
+2016-02-07 15:18:45,798  WARN [Worker-162] - ScalaProject - Project fuck has platform default sourceLevel.
+2016-02-07 15:18:45,798  WARN [Worker-162] - ScalaProject - Project fuck runs on platform default installation.
+2016-02-07 15:19:00,089  WARN [Worker-163] - ScalaProject - Project fuck has platform default sourceLevel.
+2016-02-07 15:19:00,089  WARN [Worker-163] - ScalaProject - Project fuck runs on platform default installation.
+2016-02-07 15:19:51,557  WARN [Worker-162] - ScalaProject - Project fuck has platform default sourceLevel.
+2016-02-07 15:19:51,557  WARN [Worker-162] - ScalaProject - Project fuck runs on platform default installation.
+2016-02-07 15:20:41,938  WARN [Worker-163] - ScalaProject - Project fuck has platform default sourceLevel.
+2016-02-07 15:20:41,938  WARN [Worker-163] - ScalaProject - Project fuck runs on platform default installation.
+2016-02-07 15:24:50,093  WARN [Worker-169] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-07 15:24:50,094  WARN [Worker-169] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-07 15:26:20,245  WARN [Worker-162] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-07 15:26:20,245  WARN [Worker-162] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-07 15:26:47,642  WARN [Worker-167] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-07 15:26:47,642  WARN [Worker-167] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-09 11:04:57,912  WARN [Worker-188] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-09 11:04:57,912  WARN [Worker-188] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-09 11:08:18,257  WARN [Worker-197] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-09 11:08:18,257  WARN [Worker-197] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-09 11:08:28,882  WARN [Worker-198] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-09 11:08:28,882  WARN [Worker-198] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-09 11:21:41,039  WARN [Worker-197] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-09 11:21:41,040  WARN [Worker-197] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-09 11:23:15,262  WARN [Worker-195] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-09 11:23:15,262  WARN [Worker-195] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-09 11:23:30,752  WARN [Worker-196] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-09 11:23:30,752  WARN [Worker-196] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-09 11:23:33,327  WARN [Worker-196] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-09 11:23:33,327  WARN [Worker-196] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-09 11:24:16,311  WARN [Worker-197] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-09 11:24:16,311  WARN [Worker-197] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-09 11:25:13,877  WARN [Worker-195] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-09 11:25:13,877  WARN [Worker-195] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-09 11:39:05,791  WARN [Worker-195] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-09 11:39:05,791  WARN [Worker-195] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-09 11:39:55,949  WARN [Worker-202] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-09 11:39:55,950  WARN [Worker-202] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-10 08:01:12,994  WARN [main] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-10 08:01:12,996  WARN [main] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-10 08:01:13,006  WARN [main] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-10 08:01:13,006  WARN [main] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-10 08:01:17,672  WARN [main] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-10 08:01:17,672  WARN [main] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-10 08:01:17,676  WARN [main] - ScalaProject - Project fuck has platform default sourceLevel.
+2016-02-10 08:01:17,676  WARN [main] - ScalaProject - Project fuck runs on platform default installation.
+2016-02-10 08:01:43,673  WARN [ModalContext] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 08:01:43,674  WARN [ModalContext] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 08:01:44,237  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 08:01:44,238  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 08:02:00,851  WARN [main] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 08:02:00,851  WARN [main] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 08:02:05,548  WARN [Worker-5] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 08:02:05,548  WARN [Worker-5] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 08:02:05,929  WARN [Java indexing] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 08:02:05,930  WARN [Java indexing] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 08:02:08,850 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-10 08:02:08,850 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-10 08:02:08,853 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-10 08:02:08,853 ERROR [main] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-10 08:02:08,917  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 08:02:08,917  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 08:02:47,195  WARN [main] - ScalaProject - Project fuck has platform default sourceLevel.
+2016-02-10 08:02:47,195  WARN [main] - ScalaProject - Project fuck runs on platform default installation.
+2016-02-10 08:02:48,914  WARN [main] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-10 08:02:48,914  WARN [main] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-10 08:09:22,886  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 08:09:22,887  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 08:10:10,543  WARN [Worker-0] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 08:10:10,543  WARN [Worker-0] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 08:19:53,084 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-10 08:19:53,112 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-10 08:19:53,112 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-10 08:19:53,112 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-10 08:20:32,600  WARN [Worker-1] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 08:20:32,601  WARN [Worker-1] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 08:21:34,454  WARN [Worker-7] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 08:21:34,454  WARN [Worker-7] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 08:22:18,300  WARN [Worker-7] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 08:22:18,300  WARN [Worker-7] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 08:22:29,774  WARN [Worker-1] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 08:22:29,775  WARN [Worker-1] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 08:24:25,235  WARN [Worker-4] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 08:24:25,237  WARN [Worker-4] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 08:25:02,433  WARN [Worker-8] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 08:25:02,434  WARN [Worker-8] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 08:26:48,642  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 08:26:48,642  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 08:31:12,268  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 622
+2016-02-10 08:31:15,356  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 623
+2016-02-10 08:32:11,324  WARN [Worker-7] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 08:32:11,324  WARN [Worker-7] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 08:32:58,414  WARN [Worker-4] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 08:32:58,414  WARN [Worker-4] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 08:33:15,806  WARN [Worker-0] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 08:33:15,806  WARN [Worker-0] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 08:34:02,268  WARN [Worker-7] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 08:34:02,268  WARN [Worker-7] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 08:38:27,467  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 682
+2016-02-10 08:38:29,581  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 683
+2016-02-10 08:38:31,185  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 684
+2016-02-10 08:38:34,318  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 686
+2016-02-10 08:38:34,318  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 686
+2016-02-10 08:38:37,415  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 701
+2016-02-10 08:38:37,415  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 701
+2016-02-10 08:38:40,018  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 702
+2016-02-10 08:38:40,019  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 702
+2016-02-10 08:39:24,601  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 701
+2016-02-10 08:39:24,602  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 701
+2016-02-10 08:39:25,709  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 700
+2016-02-10 08:39:25,709  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 700
+2016-02-10 08:40:34,333  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 08:40:34,333  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 08:42:02,028  WARN [Worker-6] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 08:42:02,028  WARN [Worker-6] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 08:42:51,817  WARN [Worker-3] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 08:42:51,817  WARN [Worker-3] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 08:43:12,709  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 08:43:12,710  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 08:48:01,068  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 925
+2016-02-10 08:48:02,161  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 926
+2016-02-10 08:50:16,128  WARN [Worker-6] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 08:50:16,128  WARN [Worker-6] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 08:50:28,448  WARN [Worker-0] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 08:50:28,448  WARN [Worker-0] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 08:55:25,549  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1192
+2016-02-10 08:55:26,585  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1192
+2016-02-10 08:55:32,534  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1194
+2016-02-10 08:55:35,654  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1193
+2016-02-10 08:55:37,244  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1195
+2016-02-10 08:55:38,832  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1196
+2016-02-10 08:57:00,716 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-10 08:57:00,716 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-10 08:57:00,716 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-10 09:25:20,083  WARN [Worker-6] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 09:25:20,084  WARN [Worker-6] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 09:26:56,243 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-10 09:26:56,243 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-10 09:26:56,243 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-10 09:27:06,427  WARN [Worker-4] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 09:27:06,428  WARN [Worker-4] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 09:28:24,348  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 09:28:24,348  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 09:29:06,971  WARN [Worker-6] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 09:29:06,972  WARN [Worker-6] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 09:29:42,125  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 09:29:42,125  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 09:31:27,365  WARN [Worker-0] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 09:31:27,365  WARN [Worker-0] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 09:32:20,107  WARN [Worker-15] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 09:32:20,107  WARN [Worker-15] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 09:33:39,572  WARN [Worker-15] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 09:33:39,572  WARN [Worker-15] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 09:34:32,545  WARN [Worker-15] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 09:34:32,545  WARN [Worker-15] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 09:34:35,199  WARN [Worker-14] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 09:34:35,199  WARN [Worker-14] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 09:40:58,465  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1097
+2016-02-10 09:41:01,557  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1098
+2016-02-10 09:41:02,712  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1101
+2016-02-10 09:41:39,082  WARN [Worker-14] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 09:41:39,082  WARN [Worker-14] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 09:42:19,695  WARN [Worker-16] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 09:42:19,696  WARN [Worker-16] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 09:42:21,876  WARN [Worker-12] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 09:42:21,876  WARN [Worker-12] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 09:45:35,872  WARN [Worker-13] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 09:45:35,872  WARN [Worker-13] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 09:45:55,914 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-10 09:45:55,917 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-10 09:45:55,917 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-10 09:45:55,917 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-10 09:46:09,161  WARN [Worker-0] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 09:46:09,161  WARN [Worker-0] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 09:49:22,665  WARN [Worker-6] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 09:49:22,665  WARN [Worker-6] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 09:51:05,249  WARN [Worker-14] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 09:51:05,249  WARN [Worker-14] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 09:52:12,493  WARN [Worker-14] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 09:52:12,493  WARN [Worker-14] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 09:53:11,188  WARN [Worker-13] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 09:53:11,189  WARN [Worker-13] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 09:53:55,652  WARN [Worker-13] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 09:53:55,655  WARN [Worker-13] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 09:59:57,763  WARN [Worker-13] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 09:59:57,764  WARN [Worker-13] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 10:36:25,719  WARN [Worker-20] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 10:36:25,719  WARN [Worker-20] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 10:39:03,251  WARN [Worker-6] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 10:39:03,251  WARN [Worker-6] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 10:39:30,488  WARN [Worker-20] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 10:39:30,488  WARN [Worker-20] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 10:53:10,508  WARN [Worker-12] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 10:53:10,508  WARN [Worker-12] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 10:54:37,536  WARN [Worker-20] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 10:54:37,537  WARN [Worker-20] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 10:54:53,017  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1324
+2016-02-10 10:54:53,017  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1338
+2016-02-10 10:55:33,147  WARN [Worker-6] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 10:55:33,147  WARN [Worker-6] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 10:56:16,514  WARN [Worker-20] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 10:56:16,514  WARN [Worker-20] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 10:57:17,570  WARN [Worker-21] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 10:57:17,570  WARN [Worker-21] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 10:57:50,233  WARN [Worker-22] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 10:57:50,234  WARN [Worker-22] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 10:59:20,749  WARN [Worker-12] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 10:59:20,749  WARN [Worker-12] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:00:33,278  WARN [Worker-12] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:00:33,279  WARN [Worker-12] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:01:17,054  WARN [Worker-21] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:01:17,054  WARN [Worker-21] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:05:00,229  WARN [Worker-23] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:05:00,229  WARN [Worker-23] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:05:42,370  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1486
+2016-02-10 11:05:44,960  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1488
+2016-02-10 11:05:44,960  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1488
+2016-02-10 11:05:46,051  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1488
+2016-02-10 11:05:46,052  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1488
+2016-02-10 11:07:23,182  WARN [Worker-20] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:07:23,182  WARN [Worker-20] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:07:37,091  WARN [Worker-21] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:07:37,091  WARN [Worker-21] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:08:07,556  WARN [Worker-21] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:08:07,556  WARN [Worker-21] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:08:30,467  WARN [Worker-21] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:08:30,467  WARN [Worker-21] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:09:37,348  WARN [Worker-20] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:09:37,348  WARN [Worker-20] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:09:41,537  WARN [Worker-12] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:09:41,537  WARN [Worker-12] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:10:03,663  WARN [Worker-21] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:10:03,663  WARN [Worker-21] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:13:07,626  WARN [Worker-25] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:13:07,627  WARN [Worker-25] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:14:59,385  WARN [Worker-25] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:14:59,385  WARN [Worker-25] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:16:06,219  WARN [Worker-25] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:16:06,219  WARN [Worker-25] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:17:02,442  WARN [Worker-25] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:17:02,442  WARN [Worker-25] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:17:58,821  WARN [Worker-22] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:17:58,821  WARN [Worker-22] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:18:58,555  WARN [Worker-12] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:18:58,556  WARN [Worker-12] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:22:59,768  WARN [Worker-25] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:22:59,769  WARN [Worker-25] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:29:57,489  WARN [Worker-21] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:29:57,489  WARN [Worker-21] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:31:01,453  WARN [Worker-6] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:31:01,453  WARN [Worker-6] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:38:52,479  WARN [Worker-25] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:38:52,480  WARN [Worker-25] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:39:33,853  WARN [Worker-25] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:39:33,853  WARN [Worker-25] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:39:44,643  WARN [Worker-25] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:39:44,644  WARN [Worker-25] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:40:12,848  WARN [Worker-12] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:40:12,848  WARN [Worker-12] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:41:37,746  WARN [Worker-26] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:41:37,746  WARN [Worker-26] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:41:50,869  WARN [Worker-23] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:41:50,869  WARN [Worker-23] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:43:34,078  WARN [Worker-21] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:43:34,078  WARN [Worker-21] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:44:55,349  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1213
+2016-02-10 11:45:01,144  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1214
+2016-02-10 11:45:26,169  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1214
+2016-02-10 11:45:59,101  WARN [Worker-21] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:45:59,101  WARN [Worker-21] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:46:04,714  WARN [Worker-21] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:46:04,714  WARN [Worker-21] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:51:40,210  WARN [Worker-6] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:51:40,210  WARN [Worker-6] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:51:55,129  WARN [Worker-25] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:51:55,130  WARN [Worker-25] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:52:08,137  WARN [Worker-21] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:52:08,137  WARN [Worker-21] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:52:39,715  WARN [Worker-25] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:52:39,715  WARN [Worker-25] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:53:35,418  WARN [Worker-12] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:53:35,418  WARN [Worker-12] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 11:53:41,425  WARN [Worker-25] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 11:53:41,425  WARN [Worker-25] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 12:44:17,797  WARN [Worker-23] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 12:44:17,798  WARN [Worker-23] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 12:44:50,622  WARN [Worker-25] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 12:44:50,624  WARN [Worker-25] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 12:45:08,799  WARN [Worker-23] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 12:45:08,799  WARN [Worker-23] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 12:50:03,567  WARN [Worker-30] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 12:50:03,567  WARN [Worker-30] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 12:50:31,265  WARN [Worker-25] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 12:50:31,265  WARN [Worker-25] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 12:55:41,847  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 501
+2016-02-10 12:55:43,007  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 504
+2016-02-10 12:55:44,650  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 504
+2016-02-10 12:55:44,650  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 504
+2016-02-10 12:56:07,658  WARN [Worker-29] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 12:56:07,658  WARN [Worker-29] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 12:56:25,373  WARN [Worker-27] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 12:56:25,373  WARN [Worker-27] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 12:57:51,269  WARN [Worker-25] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 12:57:51,269  WARN [Worker-25] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 12:58:05,929  WARN [Worker-29] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 12:58:05,929  WARN [Worker-29] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 13:00:22,015  WARN [Worker-25] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 13:00:22,015  WARN [Worker-25] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 13:00:32,675  WARN [Worker-27] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 13:00:32,675  WARN [Worker-27] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 13:00:47,837  WARN [Worker-25] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 13:00:47,837  WARN [Worker-25] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 13:03:04,462  WARN [Worker-23] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 13:03:04,462  WARN [Worker-23] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 13:04:25,589  WARN [Worker-31] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 13:04:25,589  WARN [Worker-31] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 13:05:49,496 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-10 13:05:49,497 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-10 13:05:49,497 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-10 13:12:36,513  WARN [Worker-31] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 13:12:36,513  WARN [Worker-31] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 13:13:14,392  WARN [Worker-32] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 13:13:14,392  WARN [Worker-32] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 13:13:27,888  WARN [Worker-31] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 13:13:27,888  WARN [Worker-31] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 13:13:49,064  WARN [Worker-32] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 13:13:49,064  WARN [Worker-32] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 13:14:10,882  WARN [Worker-32] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 13:14:10,882  WARN [Worker-32] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 13:14:20,520  WARN [Worker-32] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 13:14:20,520  WARN [Worker-32] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 13:23:08,644  WARN [Worker-32] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 13:23:08,644  WARN [Worker-32] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 13:26:04,699  WARN [Worker-25] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 13:26:04,699  WARN [Worker-25] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 13:30:31,018  WARN [Worker-33] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 13:30:31,019  WARN [Worker-33] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 13:31:42,268  WARN [Worker-30] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 13:31:42,269  WARN [Worker-30] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 13:31:54,991  WARN [Worker-23] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 13:31:54,991  WARN [Worker-23] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 13:33:58,369  WARN [Worker-34] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 13:33:58,369  WARN [Worker-34] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 13:34:23,383  WARN [Worker-23] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 13:34:23,383  WARN [Worker-23] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 13:36:03,584  WARN [Worker-32] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 13:36:03,584  WARN [Worker-32] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 13:43:13,499  WARN [Worker-25] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 13:43:13,499  WARN [Worker-25] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 13:44:30,835  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 829
+2016-02-10 13:52:31,565  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 837
+2016-02-10 13:52:38,761  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-02-10 13:53:36,505  WARN [Worker-35] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 13:53:36,505  WARN [Worker-35] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 13:53:44,579  WARN [Worker-27] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 13:53:44,579  WARN [Worker-27] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:02:32,212  WARN [Worker-32] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:02:32,212  WARN [Worker-32] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:03:17,236  WARN [Worker-35] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:03:17,236  WARN [Worker-35] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:03:36,206  WARN [Worker-34] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:03:36,206  WARN [Worker-34] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:06:32,194  WARN [Worker-34] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:06:32,194  WARN [Worker-34] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:06:38,088  WARN [Worker-25] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:06:38,088  WARN [Worker-25] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:06:50,696  WARN [Worker-25] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:06:50,697  WARN [Worker-25] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:07:00,734 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-10 14:07:00,734 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-10 14:07:00,734 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-10 14:07:17,473  WARN [Worker-32] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:07:17,473  WARN [Worker-32] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:09:16,474  WARN [Worker-27] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:09:16,475  WARN [Worker-27] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:09:34,864  WARN [Worker-27] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:09:34,864  WARN [Worker-27] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:09:49,412  WARN [Worker-34] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:09:49,412  WARN [Worker-34] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:12:29,547  WARN [Worker-36] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:12:29,548  WARN [Worker-36] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:12:43,735  WARN [Worker-25] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:12:43,735  WARN [Worker-25] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:14:11,085  WARN [Worker-37] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:14:11,085  WARN [Worker-37] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:14:28,471  WARN [Worker-36] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:14:28,472  WARN [Worker-36] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:14:53,757  WARN [Worker-25] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:14:53,758  WARN [Worker-25] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:15:11,684  WARN [Worker-37] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:15:11,685  WARN [Worker-37] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:16:20,790  WARN [Worker-35] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:16:20,790  WARN [Worker-35] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:18:31,431  WARN [Worker-36] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-10 14:18:31,432  WARN [Worker-36] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-10 14:18:31,436  WARN [Worker-36] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-10 14:18:31,436  WARN [Worker-36] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-10 14:19:50,184  WARN [Worker-37] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-10 14:19:50,185  WARN [Worker-37] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-10 14:20:24,036  WARN [Worker-36] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-10 14:20:24,036  WARN [Worker-36] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-10 14:21:03,417  WARN [Worker-34] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-10 14:21:03,417  WARN [Worker-34] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-10 14:21:21,037  WARN [Worker-37] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-10 14:21:21,037  WARN [Worker-37] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-10 14:26:20,317  WARN [Worker-35] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-10 14:26:20,318  WARN [Worker-35] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-10 14:26:37,712  WARN [Worker-36] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-10 14:26:37,712  WARN [Worker-36] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-10 14:30:50,921  WARN [Worker-34] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:30:50,922  WARN [Worker-34] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:33:39,882  WARN [Worker-25] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:33:39,882  WARN [Worker-25] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:35:26,839  WARN [Worker-39] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:35:26,840  WARN [Worker-39] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:39:11,808  WARN [Worker-36] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:39:11,809  WARN [Worker-36] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:40:00,188  WARN [Worker-39] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:40:00,188  WARN [Worker-39] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:41:09,722  WARN [Worker-34] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:41:09,722  WARN [Worker-34] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:41:30,815  WARN [Worker-34] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:41:30,816  WARN [Worker-34] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:42:40,804  WARN [Worker-27] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:42:40,804  WARN [Worker-27] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:42:45,274  WARN [Worker-41] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:42:45,274  WARN [Worker-41] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:43:01,021  WARN [Worker-36] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:43:01,021  WARN [Worker-36] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:43:22,717  WARN [Worker-37] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:43:22,717  WARN [Worker-37] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:43:30,830  WARN [Worker-39] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:43:30,830  WARN [Worker-39] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:43:38,038  WARN [Worker-39] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:43:38,038  WARN [Worker-39] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:46:48,351  WARN [Worker-35] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:46:48,351  WARN [Worker-35] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:49:40,692  WARN [Worker-25] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:49:40,692  WARN [Worker-25] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:50:06,434  WARN [Worker-40] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:50:06,435  WARN [Worker-40] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:50:14,823  WARN [Worker-37] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:50:14,823  WARN [Worker-37] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:50:18,652  WARN [Worker-41] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:50:18,652  WARN [Worker-41] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:50:27,479  WARN [Worker-40] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:50:27,488  WARN [Worker-40] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:50:42,187  WARN [Worker-37] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:50:42,187  WARN [Worker-37] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:51:14,358  WARN [Worker-40] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:51:14,358  WARN [Worker-40] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:55:39,304  WARN [Worker-25] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:55:39,304  WARN [Worker-25] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:56:44,235  WARN [Worker-25] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:56:44,235  WARN [Worker-25] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:58:57,297  WARN [Worker-25] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:58:57,297  WARN [Worker-25] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:59:12,046  WARN [Worker-44] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:59:12,046  WARN [Worker-44] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:59:22,559  WARN [Worker-39] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:59:22,560  WARN [Worker-39] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:59:28,915  WARN [Worker-44] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:59:28,915  WARN [Worker-44] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 14:59:34,501  WARN [Worker-43] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 14:59:34,501  WARN [Worker-43] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 15:00:49,132  WARN [Worker-44] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 15:00:49,132  WARN [Worker-44] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 15:01:02,004  WARN [Worker-36] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 15:01:02,004  WARN [Worker-36] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 15:04:57,103  WARN [Worker-39] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 15:04:57,104  WARN [Worker-39] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 15:05:06,563  WARN [Worker-27] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 15:05:06,563  WARN [Worker-27] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 15:05:17,568  WARN [Worker-27] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 15:05:17,568  WARN [Worker-27] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 15:55:32,019  WARN [Worker-25] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 15:55:32,019  WARN [Worker-25] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 16:05:50,854  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1391
+2016-02-10 16:05:53,521  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1395
+2016-02-10 16:08:57,833  WARN [Worker-50] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 16:08:57,833  WARN [Worker-50] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 16:11:07,985  WARN [Worker-51] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 16:11:07,985  WARN [Worker-51] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 16:11:30,587  WARN [Worker-49] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 16:11:30,588  WARN [Worker-49] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 16:14:30,987  WARN [Worker-43] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 16:14:30,988  WARN [Worker-43] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 16:15:00,079  WARN [Worker-50] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 16:15:00,079  WARN [Worker-50] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 16:15:08,478  WARN [Worker-50] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 16:15:08,478  WARN [Worker-50] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 16:15:19,389  WARN [Worker-43] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 16:15:19,389  WARN [Worker-43] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 16:17:14,738  WARN [Worker-43] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 16:17:14,738  WARN [Worker-43] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 16:17:33,550  WARN [Worker-37] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 16:17:33,550  WARN [Worker-37] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 16:17:49,129  WARN [Worker-51] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 16:17:49,129  WARN [Worker-51] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 16:18:11,895  WARN [Worker-49] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 16:18:11,905  WARN [Worker-49] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 16:20:25,557  WARN [Worker-25] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 16:20:25,557  WARN [Worker-25] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 16:21:14,489  WARN [Worker-25] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 16:21:14,489  WARN [Worker-25] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 16:54:09,666  WARN [Worker-50] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 16:54:09,667  WARN [Worker-50] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 16:54:14,751  WARN [Worker-53] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 16:54:14,751  WARN [Worker-53] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 16:55:04,582  WARN [Worker-50] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 16:55:04,582  WARN [Worker-50] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 16:55:09,673  WARN [Worker-51] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 16:55:09,673  WARN [Worker-51] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 16:56:16,329  WARN [Worker-55] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 16:56:16,329  WARN [Worker-55] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 16:59:18,246  WARN [Worker-56] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 16:59:18,247  WARN [Worker-56] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 17:00:15,060  WARN [Worker-50] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 17:00:15,060  WARN [Worker-50] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 17:04:13,379  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 176
+2016-02-10 17:04:13,380  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 179
+2016-02-10 17:04:50,294  WARN [Worker-25] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-10 17:04:50,294  WARN [Worker-25] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-10 17:08:12,002  WARN [Worker-51] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-10 17:08:12,002  WARN [Worker-51] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-10 17:09:15,825  WARN [Worker-57] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-10 17:09:15,825  WARN [Worker-57] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-10 17:09:53,007  WARN [Worker-50] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-10 17:09:53,007  WARN [Worker-50] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-10 17:10:37,036  WARN [Worker-57] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-10 17:10:37,036  WARN [Worker-57] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-10 17:11:02,192  WARN [Worker-25] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-10 17:11:02,192  WARN [Worker-25] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-10 17:11:18,718  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 329
+2016-02-10 17:11:20,264  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 330
+2016-02-10 17:12:12,347  WARN [Worker-53] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-10 17:12:12,347  WARN [Worker-53] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-10 17:12:24,855  WARN [Worker-54] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-10 17:12:24,855  WARN [Worker-54] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-10 17:13:13,031  WARN [Worker-58] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-10 17:13:13,031  WARN [Worker-58] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-10 17:13:41,573  WARN [Worker-25] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-10 17:13:41,574  WARN [Worker-25] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-10 17:13:52,998  WARN [Worker-53] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-10 17:13:52,999  WARN [Worker-53] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-10 17:14:10,199  WARN [Worker-58] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-10 17:14:10,199  WARN [Worker-58] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-10 17:14:38,253  WARN [Worker-50] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-10 17:14:38,253  WARN [Worker-50] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-10 17:15:04,000  WARN [Worker-57] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 17:15:04,000  WARN [Worker-57] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 17:15:34,268  WARN [Worker-54] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 17:15:34,268  WARN [Worker-54] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 17:16:52,510  WARN [Worker-56] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 17:16:52,510  WARN [Worker-56] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 17:17:03,716  WARN [Worker-50] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 17:17:03,716  WARN [Worker-50] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 17:18:34,495  WARN [main] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 17:18:34,496  WARN [main] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 17:18:34,503  WARN [main] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 17:18:34,503  WARN [main] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 17:18:40,702  WARN [Worker-3] - ScalaProject - Project fuck has platform default sourceLevel.
+2016-02-10 17:18:40,714  WARN [Worker-3] - ScalaProject - Project fuck runs on platform default installation.
+2016-02-10 17:18:40,715  WARN [Worker-3] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-10 17:18:40,715  WARN [Worker-3] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-10 17:18:40,715  WARN [Worker-3] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-10 17:18:40,716  WARN [Worker-3] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-10 17:19:30,008  WARN [main] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-10 17:19:30,008  WARN [main] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-10 17:20:47,106  WARN [Worker-1] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-10 17:20:47,107  WARN [Worker-1] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-10 17:20:47,149  WARN [Worker-1] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-10 17:20:47,150  WARN [Worker-1] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-10 17:24:27,797  WARN [Worker-2] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-10 17:24:27,797  WARN [Worker-2] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-10 17:24:36,428  WARN [main] - ScalaProject - Project helloworld has platform default sourceLevel.
+2016-02-10 17:24:36,428  WARN [main] - ScalaProject - Project helloworld runs on platform default installation.
+2016-02-10 17:27:18,873  WARN [Worker-6] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-10 17:27:18,874  WARN [Worker-6] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-10 17:28:01,196  WARN [Worker-4] - ScalaProject - Project LocalSettings has platform default sourceLevel.
+2016-02-10 17:28:01,196  WARN [Worker-4] - ScalaProject - Project LocalSettings runs on platform default installation.
+2016-02-10 17:28:20,544  WARN [main] - ScalaProject - Project fuck has platform default sourceLevel.
+2016-02-10 17:28:20,545  WARN [main] - ScalaProject - Project fuck runs on platform default installation.
+2016-02-10 17:28:32,047  WARN [Worker-0] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 17:28:32,048  WARN [Worker-0] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 17:28:32,055  WARN [Worker-0] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 17:28:32,055  WARN [Worker-0] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 17:28:42,555  WARN [Worker-5] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 17:28:42,555  WARN [Worker-5] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 17:30:53,793  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 17:30:53,794  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 17:32:21,276  WARN [Worker-4] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 17:32:21,277  WARN [Worker-4] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 17:33:01,656  WARN [Worker-4] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 17:33:01,656  WARN [Worker-4] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 17:34:48,607  WARN [Worker-4] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 17:34:48,607  WARN [Worker-4] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 17:36:02,625  WARN [Worker-6] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 17:36:02,625  WARN [Worker-6] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 17:37:26,958  WARN [Worker-4] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 17:37:26,959  WARN [Worker-4] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 17:37:32,412  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 17:37:32,412  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 17:43:03,603  WARN [Worker-3] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 17:43:03,603  WARN [Worker-3] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 17:44:03,752  WARN [Worker-0] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 17:44:03,753  WARN [Worker-0] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 17:46:43,077  WARN [Worker-0] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 17:46:43,078  WARN [Worker-0] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 17:58:14,929  WARN [Worker-4] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 17:58:14,929  WARN [Worker-4] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:00:20,921  WARN [Worker-3] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:00:20,922  WARN [Worker-3] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:05:52,366  WARN [Worker-7] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:05:52,366  WARN [Worker-7] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:06:22,010  WARN [Worker-8] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:06:22,010  WARN [Worker-8] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:07:04,984  WARN [Worker-6] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:07:04,984  WARN [Worker-6] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:07:37,985  WARN [Worker-7] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:07:37,985  WARN [Worker-7] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:09:12,816  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 824
+2016-02-10 18:09:13,879  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 824
+2016-02-10 18:09:15,095  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 826
+2016-02-10 18:09:15,095  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 826
+2016-02-10 18:10:59,064  WARN [Worker-8] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:10:59,065  WARN [Worker-8] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:11:21,396  WARN [Worker-6] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:11:21,396  WARN [Worker-6] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:12:15,145  WARN [Worker-8] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:12:15,145  WARN [Worker-8] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:13:10,288  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:13:10,288  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:13:12,798  WARN [Worker-4] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:13:12,798  WARN [Worker-4] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:13:17,099  WARN [Worker-9] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:13:17,099  WARN [Worker-9] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:13:29,960  WARN [Worker-9] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:13:29,960  WARN [Worker-9] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:14:22,709  WARN [Worker-8] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:14:22,709  WARN [Worker-8] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:14:55,349  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:14:55,349  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:15:15,774  WARN [Worker-4] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:15:15,774  WARN [Worker-4] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:15:23,196  WARN [Worker-6] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:15:23,196  WARN [Worker-6] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:16:00,243  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:16:00,243  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:16:30,138  WARN [Worker-7] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:16:30,139  WARN [Worker-7] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:19:42,249  WARN [Worker-3] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:19:42,249  WARN [Worker-3] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:20:00,963  WARN [Worker-4] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:20:00,963  WARN [Worker-4] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:21:25,118  WARN [Worker-8] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:21:25,119  WARN [Worker-8] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:22:26,329  WARN [Worker-7] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:22:26,329  WARN [Worker-7] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:24:07,517  WARN [Worker-8] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:24:07,517  WARN [Worker-8] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:25:57,446  WARN [Worker-8] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:25:57,446  WARN [Worker-8] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:27:22,083  WARN [Worker-3] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:27:22,083  WARN [Worker-3] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:28:03,425  WARN [Worker-7] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:28:03,426  WARN [Worker-7] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:28:27,951  WARN [Worker-8] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:28:27,952  WARN [Worker-8] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:28:34,368  WARN [Worker-10] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:28:34,369  WARN [Worker-10] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:30:31,530  WARN [Worker-7] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:30:31,530  WARN [Worker-7] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:32:08,088  WARN [Worker-10] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:32:08,088  WARN [Worker-10] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:32:24,716  WARN [Worker-8] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:32:24,716  WARN [Worker-8] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:32:38,355  WARN [Worker-10] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:32:38,355  WARN [Worker-10] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:34:32,195  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 981
+2016-02-10 18:35:49,140  WARN [Worker-4] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:35:49,140  WARN [Worker-4] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:36:08,041  WARN [Worker-3] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:36:08,041  WARN [Worker-3] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:36:22,926  WARN [Worker-10] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:36:22,927  WARN [Worker-10] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:37:10,323  WARN [Worker-7] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:37:10,323  WARN [Worker-7] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:37:14,748  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:37:14,748  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:38:07,175  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:38:07,175  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:38:43,656  WARN [Worker-3] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:38:43,657  WARN [Worker-3] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:39:28,304  WARN [Worker-3] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:39:28,304  WARN [Worker-3] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:39:34,366  WARN [Worker-3] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:39:34,366  WARN [Worker-3] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:43:10,515  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:43:10,515  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:43:21,950  WARN [Worker-8] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:43:21,950  WARN [Worker-8] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:44:05,543  WARN [Worker-7] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:44:05,543  WARN [Worker-7] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:44:14,326  WARN [Worker-7] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:44:14,327  WARN [Worker-7] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:44:56,694  WARN [Worker-10] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:44:56,694  WARN [Worker-10] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:46:27,563  WARN [Worker-10] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:46:27,564  WARN [Worker-10] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:46:39,151  WARN [Worker-7] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:46:39,151  WARN [Worker-7] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:48:24,944  WARN [Worker-13] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:48:24,944  WARN [Worker-13] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:50:56,959  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 2002
+2016-02-10 18:50:58,193  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 2004
+2016-02-10 18:50:58,194  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 2004
+2016-02-10 18:50:59,823  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1345
+2016-02-10 18:52:29,022  WARN [Worker-4] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:52:29,022  WARN [Worker-4] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:52:57,305  WARN [Worker-12] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:52:57,306  WARN [Worker-12] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:54:07,359  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:54:07,360  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:56:02,800  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:56:02,800  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 18:59:33,660  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 18:59:33,660  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:00:28,292  WARN [Worker-4] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:00:28,292  WARN [Worker-4] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:01:22,074  WARN [Worker-8] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:01:22,074  WARN [Worker-8] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:01:28,656  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1317
+2016-02-10 19:01:30,295  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1318
+2016-02-10 19:01:30,296  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1318
+2016-02-10 19:02:21,267  WARN [Worker-12] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:02:21,267  WARN [Worker-12] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:02:45,902  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:02:45,902  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:03:48,042  WARN [Worker-8] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:03:48,043  WARN [Worker-8] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:03:49,911  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:03:49,911  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:04:25,834  WARN [Worker-7] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:04:25,834  WARN [Worker-7] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:04:32,965  WARN [Worker-7] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:04:32,965  WARN [Worker-7] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:08:44,405  WARN [Worker-4] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:08:44,405  WARN [Worker-4] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:09:54,565  WARN [Worker-4] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:09:54,565  WARN [Worker-4] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:10:08,034  WARN [Worker-14] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:10:08,034  WARN [Worker-14] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:11:30,005  WARN [Worker-12] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:11:30,005  WARN [Worker-12] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:11:35,650  WARN [Worker-4] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:11:35,650  WARN [Worker-4] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:12:24,284  WARN [Worker-12] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:12:24,284  WARN [Worker-12] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:12:37,387  WARN [Worker-12] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:12:37,387  WARN [Worker-12] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:14:56,840  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:14:56,840  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:15:02,989  WARN [Worker-14] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:15:02,989  WARN [Worker-14] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:15:15,197  WARN [Worker-4] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:15:15,197  WARN [Worker-4] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:20:42,864  WARN [Worker-14] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:20:42,864  WARN [Worker-14] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:21:51,976  WARN [Worker-7] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:21:51,976  WARN [Worker-7] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:22:05,295  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:22:05,296  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:23:42,744  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:23:42,744  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:24:38,007  WARN [Worker-4] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:24:38,008  WARN [Worker-4] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:24:48,792  WARN [Worker-13] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:24:48,793  WARN [Worker-13] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:26:02,140  WARN [Worker-12] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:26:02,140  WARN [Worker-12] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:26:14,533  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:26:14,533  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:28:19,312  WARN [Worker-4] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:28:19,312  WARN [Worker-4] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:29:36,851  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:29:36,851  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:32:14,355  WARN [Worker-7] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:32:14,355  WARN [Worker-7] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:36:07,333  WARN [Worker-13] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:36:07,333  WARN [Worker-13] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:36:52,106  WARN [Worker-7] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:36:52,107  WARN [Worker-7] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:38:24,275  WARN [Worker-4] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:38:24,275  WARN [Worker-4] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:39:17,433  WARN [Worker-17] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:39:17,433  WARN [Worker-17] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:39:31,887  WARN [Worker-4] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:39:31,887  WARN [Worker-4] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:40:18,283  WARN [Worker-14] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:40:18,283  WARN [Worker-14] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:41:12,719  WARN [Worker-14] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:41:12,720  WARN [Worker-14] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:45:21,753  WARN [Worker-14] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:45:21,754  WARN [Worker-14] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:45:29,523  WARN [Worker-7] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:45:29,523  WARN [Worker-7] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:46:44,066  WARN [Worker-4] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:46:44,066  WARN [Worker-4] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:49:06,549  WARN [Worker-18] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:49:06,549  WARN [Worker-18] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:50:42,211  WARN [Worker-18] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:50:42,211  WARN [Worker-18] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:52:04,319  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:52:04,321  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:52:55,750  WARN [Worker-4] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:52:55,750  WARN [Worker-4] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:53:01,897  WARN [Worker-7] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:53:01,897  WARN [Worker-7] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:53:16,261  WARN [Worker-4] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:53:16,262  WARN [Worker-4] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:56:30,786  WARN [Worker-4] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:56:30,786  WARN [Worker-4] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:56:46,399  WARN [Worker-18] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:56:46,399  WARN [Worker-18] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:57:57,059  WARN [Worker-18] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:57:57,059  WARN [Worker-18] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:58:01,338  WARN [Worker-18] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:58:01,338  WARN [Worker-18] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 19:58:16,670  WARN [Worker-13] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 19:58:16,670  WARN [Worker-13] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:03:19,781  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 3283
+2016-02-10 20:03:20,825  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 3283
+2016-02-10 20:04:14,279  WARN [Worker-18] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:04:14,280  WARN [Worker-18] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:04:55,609  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:04:55,609  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:05:01,561  WARN [Worker-4] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:05:01,561  WARN [Worker-4] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:05:34,609  WARN [Worker-20] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:05:34,609  WARN [Worker-20] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:05:54,215  WARN [Worker-19] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:05:54,215  WARN [Worker-19] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:06:24,582  WARN [Worker-13] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:06:24,582  WARN [Worker-13] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:07:00,923  WARN [Worker-18] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:07:00,923  WARN [Worker-18] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:08:24,638  WARN [Worker-18] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:08:24,638  WARN [Worker-18] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:08:28,052 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-10 20:08:28,053 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-10 20:08:28,053 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-10 20:09:20,704  WARN [Worker-18] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:09:20,705  WARN [Worker-18] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:10:08,530  WARN [Worker-13] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:10:08,530  WARN [Worker-13] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:10:20,292  WARN [Worker-20] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:10:20,292  WARN [Worker-20] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:10:44,222  WARN [Worker-21] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:10:44,223  WARN [Worker-21] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:11:22,298  WARN [Worker-20] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:11:22,298  WARN [Worker-20] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:11:41,908  WARN [Worker-20] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:11:41,908  WARN [Worker-20] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:12:52,474  WARN [Worker-4] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:12:52,474  WARN [Worker-4] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:13:49,816  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 903
+2016-02-10 20:13:49,816  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 903
+2016-02-10 20:13:50,933  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 902
+2016-02-10 20:13:50,934  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 902
+2016-02-10 20:13:53,624  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 888
+2016-02-10 20:13:54,691  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 888
+2016-02-10 20:14:46,778  WARN [Worker-20] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:14:46,779  WARN [Worker-20] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:14:57,441  WARN [Worker-20] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:14:57,441  WARN [Worker-20] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:15:39,858  WARN [Worker-21] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:15:39,858  WARN [Worker-21] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:16:18,644  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:16:18,645  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:16:23,321  WARN [Worker-20] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:16:23,322  WARN [Worker-20] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:16:48,027  WARN [Worker-21] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:16:48,027  WARN [Worker-21] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:16:58,001  WARN [Worker-22] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:16:58,001  WARN [Worker-22] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:17:04,517  WARN [Worker-21] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:17:04,518  WARN [Worker-21] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:17:33,105  WARN [Worker-22] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:17:33,105  WARN [Worker-22] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:17:44,382  WARN [Worker-21] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:17:44,382  WARN [Worker-21] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:18:13,460  WARN [Worker-14] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:18:13,461  WARN [Worker-14] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:18:19,138  WARN [Worker-18] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:18:19,138  WARN [Worker-18] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:20:24,023  WARN [Worker-18] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:20:24,023  WARN [Worker-18] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:20:50,785  WARN [Worker-18] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:20:50,786  WARN [Worker-18] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:22:47,279  WARN [Worker-20] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:22:47,279  WARN [Worker-20] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:25:30,799  WARN [Worker-18] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:25:30,800  WARN [Worker-18] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:26:40,618  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1083
+2016-02-10 20:26:40,618  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1083
+2016-02-10 20:26:41,749  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1085
+2016-02-10 20:27:44,108  WARN [Worker-4] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:27:44,108  WARN [Worker-4] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:30:00,653  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:30:00,653  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:32:31,267  WARN [Worker-19] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:32:31,267  WARN [Worker-19] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:33:59,050  WARN [Worker-24] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:33:59,050  WARN [Worker-24] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:41:24,161  WARN [Worker-21] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:41:24,162  WARN [Worker-21] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:44:01,682  WARN [Worker-21] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:44:01,682  WARN [Worker-21] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:46:16,894  WARN [Worker-26] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:46:16,894  WARN [Worker-26] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:47:39,224  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:47:39,224  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:48:44,550  WARN [Worker-26] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:48:44,551  WARN [Worker-26] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:49:45,488  WARN [Worker-18] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:49:45,488  WARN [Worker-18] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:49:48,682  WARN [Worker-4] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:49:48,682  WARN [Worker-4] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 20:50:47,571  WARN [Worker-21] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 20:50:47,571  WARN [Worker-21] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:08:05,760  WARN [Worker-29] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:08:05,761  WARN [Worker-29] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:09:31,316  WARN [Worker-28] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:09:31,316  WARN [Worker-28] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:11:28,090  WARN [Worker-20] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:11:28,090  WARN [Worker-20] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:11:43,306  WARN [Worker-29] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:11:43,306  WARN [Worker-29] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:13:43,622  WARN [Worker-26] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:13:43,622  WARN [Worker-26] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:15:49,071  WARN [Worker-26] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:15:49,071  WARN [Worker-26] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:16:10,484  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:16:10,484  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:17:02,000  WARN [Worker-20] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:17:02,000  WARN [Worker-20] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:17:27,786  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:17:27,786  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:18:01,782  WARN [Worker-20] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:18:01,782  WARN [Worker-20] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:18:22,962  WARN [Worker-20] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:18:22,962  WARN [Worker-20] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:18:57,111  WARN [Worker-26] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:18:57,111  WARN [Worker-26] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:19:09,998  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:19:09,999  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:20:03,233  WARN [Worker-26] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:20:03,234  WARN [Worker-26] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:20:39,612  WARN [Worker-20] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:20:39,612  WARN [Worker-20] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:20:43,461  WARN [Worker-26] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:20:43,461  WARN [Worker-26] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:20:50,613  WARN [Worker-27] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:20:50,613  WARN [Worker-27] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:21:24,605  WARN [Worker-20] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:21:24,605  WARN [Worker-20] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:25:26,932  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:25:26,932  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:28:09,010 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-10 21:28:09,012 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-10 21:28:09,012 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-02-10 21:28:09,422  WARN [Worker-32] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:28:09,422  WARN [Worker-32] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:30:03,842  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:30:03,842  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:30:40,305  WARN [Worker-20] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:30:40,306  WARN [Worker-20] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:30:52,080  WARN [Worker-30] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:30:52,080  WARN [Worker-30] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:31:06,480  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:31:06,480  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:31:37,165  WARN [Worker-27] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:31:37,165  WARN [Worker-27] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:31:58,792  WARN [Worker-29] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:31:58,792  WARN [Worker-29] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:32:27,156  WARN [Worker-29] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:32:27,156  WARN [Worker-29] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:33:35,953  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:33:35,953  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:34:10,731  WARN [Worker-2] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:34:10,731  WARN [Worker-2] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:34:49,356  WARN [Worker-34] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:34:49,356  WARN [Worker-34] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:35:23,703  WARN [Worker-20] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:35:23,703  WARN [Worker-20] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:35:50,105  WARN [Worker-35] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:35:50,106  WARN [Worker-35] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:38:43,408  WARN [Worker-32] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:38:43,408  WARN [Worker-32] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:40:43,379  WARN [Worker-32] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:40:43,380  WARN [Worker-32] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:41:24,474  WARN [Worker-30] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:41:24,474  WARN [Worker-30] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:41:36,230  WARN [Worker-27] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:41:36,230  WARN [Worker-27] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:42:39,486  WARN [Worker-33] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:42:39,486  WARN [Worker-33] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:42:53,252  WARN [Worker-33] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:42:53,252  WARN [Worker-33] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:42:57,850  WARN [Worker-29] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:42:57,850  WARN [Worker-29] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:43:38,520  WARN [Worker-29] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:43:38,520  WARN [Worker-29] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:44:54,426  WARN [Worker-29] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:44:54,426  WARN [Worker-29] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:48:53,007  WARN [Worker-27] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:48:53,010  WARN [Worker-27] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:49:25,389  WARN [Worker-32] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:49:25,395  WARN [Worker-32] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:50:29,368  WARN [Worker-36] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:50:29,369  WARN [Worker-36] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:55:37,259  WARN [Worker-37] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:55:37,259  WARN [Worker-37] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:56:36,052  WARN [Worker-27] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:56:36,052  WARN [Worker-27] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:57:20,683  WARN [Worker-36] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:57:20,688  WARN [Worker-36] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:58:03,317  WARN [Worker-36] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:58:03,317  WARN [Worker-36] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 21:59:34,190  WARN [Worker-36] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 21:59:34,190  WARN [Worker-36] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 22:05:21,964  WARN [Worker-32] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 22:05:21,964  WARN [Worker-32] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 22:06:20,174  WARN [Worker-36] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 22:06:20,174  WARN [Worker-36] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 22:06:35,687  WARN [Worker-27] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 22:06:35,687  WARN [Worker-27] - ScalaProject - Project ExtendedProperties runs on platform default installation.
+2016-02-10 22:07:07,742  WARN [Worker-37] - ScalaProject - Project ExtendedProperties has platform default sourceLevel.
+2016-02-10 22:07:07,743  WARN [Worker-37] - ScalaProject - Project ExtendedProperties runs on platform default installation.

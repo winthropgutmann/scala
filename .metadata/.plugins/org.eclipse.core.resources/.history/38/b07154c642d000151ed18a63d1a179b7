@@ -1,0 +1,13 @@
+import scala.io._
+import java.io._
+import java.nio._
+import scala.util.matching.Regex
+
+object ulc {
+  def main(branch:String, custom:String, username:String): Unit = {
+    var myString = "N'This is retrieved from the rest characters (position of 4 to 512) from source flat file, according to the meta data definition"
+    var mySubString = myString.substring(1)
+    println(mySubString)
+  }
+
+}//end of object

@@ -1,5 +1,0 @@
-
-
-class hello {
-  println("hello world")
-}
